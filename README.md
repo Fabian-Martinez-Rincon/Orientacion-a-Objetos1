@@ -2,9 +2,9 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/Ho1JwLslRhoO2muXQC/giphy.gif" height="38" /> OO1</h1>
 
-## Cuadernillo de actividades
+## 📒Cuadernillo de actividades
 
-### Ejercicio 1: WallPost
+### 1️⃣Ejercicio 1: WallPost
 
 
 <details > <summary>  Primera Parte</summary>
@@ -106,7 +106,7 @@ Para visualizar la ventana, sobre el proyecto, usar la opción del menú context
 
 </details>
 
-### Ejercicio 2: Balanza Electrónica
+### 2️⃣ Ejercicio 2: Balanza Electrónica
 
 
 <details> <summary>Introducción</summary>
@@ -145,7 +145,7 @@ Si todo salió bien, su implementación debería pasar las pruebas que definen l
 
 </details>
 
-### Ejercicio 3: Presupuestos
+### 3️⃣ Ejercicio 3: Presupuestos
 
 
 <details> <summary>Enunciado</summary>
@@ -167,7 +167,7 @@ Utilice los tests provistos para confirmar que su implementación ofrece la func
 </details>
 
 
-### Ejercicio 3 - Bis: Balanza mejorada
+### 3️⃣ Ejercicio 3 - Bis: Balanza mejorada
 
 Realizando el ejercicio de los presupuestos, aprendimos que un objeto puede tener una colección de otros objetos. Con esto en mente, ahora queremos mejorar la balanza implementada anteriormente. 
 
@@ -205,7 +205,7 @@ Después de hacer estos cambios, ¿siguen pasando los tests? ¿Está bien que se
 
 </details>
 
-### Ejercicio 4: Figuras y cuerpos
+### 4️⃣ Ejercicio 4: Figuras y cuerpos
 
 <details><summary>Figuras en 2D</summary>
 

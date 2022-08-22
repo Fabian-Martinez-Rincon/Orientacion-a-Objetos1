@@ -148,12 +148,29 @@ Si todo salió bien, su implementación debería pasar las pruebas que definen l
 ### Ejercicio 3: Presupuestos
 
 
-<details><summary>Enunciado</summary>
-
+<details> <summary>Enunciado</summary>
 
 Defina el proyecto Ejercicio 3 - Presupuesto y dentro de él Implemente las clases que se observan en el siguiente diagrama. Ambas son subclases de Object. Preste atención a los siguientes aspectos: 
 
+![image](https://user-images.githubusercontent.com/55964635/185838063-5f3902c3-601e-4905-88da-42d9bc19bdec.png)
+
+- ¿Cuáles son las variables de instancia de cada clase? 
+
+- ¿Qué variables inicializa y cómo? 
+
 </details>
+
+<details><summary>Probando su código</summary>
+
+
+Utilice los tests provistos para confirmar que su implementación ofrece la funcionalidad esperada. En este caso, se trata de dos clases,  ItemTest y PresupuestoTest, que debe agregar dentro del paquete tests. Haga las modificaciones necesarias para que el proyecto no tenga errores. Siéntase libre de explorar las clases de test para intentar entender qué es lo que hacen.
+</details>
+
+
+### Ejercicio 3 - Bis: Balanza mejorada
+
+Realizando el ejercicio de los presupuestos, aprendimos que un objeto puede tener una colección de otros objetos. Con esto en mente, ahora queremos mejorar la balanza implementada anteriormente. 
+
 <details><summary>Tarea 1</summary>
 
 Mejorar la balanza para que recuerde los productos ingresados (los mantenga en una colección). Analice de qué forma puede realizarse este nuevo requerimiento e implemente el mensaje  
@@ -185,5 +202,63 @@ Con esta nueva funcionalidad, podemos enriquecer al Ticket, haciendo que él tam
 <details><summary>Tarea 3</summary>
 
 Después de hacer estos cambios, ¿siguen pasando los tests? ¿Está bien que sea así? 
+
+</details>
+
+### Ejercicio 4: Figuras y cuerpos
+
+<details><summary>Figuras en 2D</summary>
+
+Defina un nuevo proyecto figurasYCuerpos 
+
+En Taller de Programación definió clases para representar figuras geométricas. Retomaremos ese ejercicio para trabajar con Cuadrados y Círculos. 
+
+El siguiente diagrama de clases documenta los mensajes que estos objetos deben entender. Decida usted qué variables de instancia son necesarias. Ambas clases son subclases de Object. Puede agregar mensajes adicionales si lo cree necesario. 
+
+![image](https://user-images.githubusercontent.com/55964635/185838883-5b65ef75-b76b-43ce-abc9-86d93145e6bb.png)
+
+
+Fórmulas y mensajes útiles: 
+
+- Diámetro del círculo: radio * 2 
+- Perímetro del círculo: π * diámetro 
+- Área del círculo: π * radio 2 
+- π se obtiene enviando el mensaje #pi a la clase Float (Float pi) (ahora Math.PI)  
+
+</details>
+
+<details ><summary>Cuerpos en 3D</summary>
+
+Ahora que tenemos Círculos y Cuadrados, podemos usarlos para construir cuerpos (en 3D) y calcular su volumen y superficie o área exterior. Vamos a pensar a un cilindro como "un cuerpo que tiene una figura 2D como cara basal y que tiene una altura (vea la siguiente imagen)" . Si en el lugar de la figura2D tuviera un círculo, se formaría el siguiente cuerpo 3D. 
+
+![image](https://user-images.githubusercontent.com/55964635/185839102-e0820a95-209d-4485-ac76-1b3fca8706a8.png)
+
+Si reemplazamos la cara basal por un rectángulo, tendremos un prisma (una caja de zapatos). 
+
+El siguiente diagrama de clases documenta los mensajes que entiende un cuerpo3D. Decida usted qué variables de instancia son necesarias. Cuerpo3D es subclase de Object. 
+
+Decida usted si es necesario hacer cambios en las figuras 2D. 
+
+![image](https://user-images.githubusercontent.com/55964635/185839185-5b7b6b94-467a-4846-bc00-a2cea25e10a7.png)
+
+
+Fórmulas útiles: 
+
+- El área o superficie exterior de un cuerpo es: [Salto de ajuste de texto]2* área-cara-basal + perímetro-cara-basal * altura-del-cuerpo 
+- El volumen de un cuerpo es: área-cara-basal * altura 
+
+Más info interesante: A la figura que da forma al cuerpo (el círculo o el cuadrado en nuestro caso) se le llama directriz. Y a la recta en la que se mueve se llama generatriz. En wikipedia (Cilindro)1 se puede aprender un poco más al respecto. 
+
+</details>
+
+<details> <summary>Extra</summary>
+
+Pruebas automatizadas 
+
+Siguiendo los ejemplos de ejercicios anteriores, ejecute las pruebas automatizadas provistas. En este caso, se trata de tres clases que debe agregar dentro del paquete tests. Haga las modificaciones necesarias para que el proyecto no tenga errores.  Si algún test no pasa, consulte al ayudante.  
+
+Discuta y reflexione 
+
+Discuta con el ayudante sus elecciones de variables de instancia y métodos adicionales. ¿Es necesario todo lo que definió? 
 
 </details>

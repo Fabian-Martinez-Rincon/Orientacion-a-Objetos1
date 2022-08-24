@@ -1,6 +1,5 @@
 
-
-<h1 align="center"><img src="https://media.giphy.com/media/Ho1JwLslRhoO2muXQC/giphy.gif" height="38" /> OO1</h1>
+![](/img/Portada.png)
 
 ## 📒Cuadernillo de actividades
 

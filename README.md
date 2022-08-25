@@ -1,7 +1,11 @@
 
-![](/img/Portada.png)
+![](/img/oo1.jpg)
 
-## 📒Cuadernillo de actividades
+## Teoria
+
+- [Resumen Teorico](/Documentos/Teoria.md)
+
+## 📒Practica
 
 ### 1️⃣Ejercicio 1: WallPost
 

@@ -1,9 +1,10 @@
+<h1 align="center"> ☕ Orientación a Objetos 1</h1>
 
-![](/img/oo1.jpg)
+<p><img width="250" align='right' src="Img/3.png"></p>
 
 ## 📚 Teoria
 
 - [Resumen Teorico](/Documentos/Teoria.md)
 
-## 🔨 Practica (agarra la pala pá)
+## 🔨 Practica 
 

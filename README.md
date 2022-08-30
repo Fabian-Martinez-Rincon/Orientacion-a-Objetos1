@@ -6,7 +6,11 @@
 
 - [Resumen Teorico](/Documentos/Teoria.md)
 
+<<<<<<< HEAD
 ##  Practica 
+=======
+
+>>>>>>> f71bfbf6686148f708b312eb4dc17e244789dce3
 
 ## Condiciones de aprobacion
 

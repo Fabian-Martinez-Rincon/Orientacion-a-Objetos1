@@ -1,0 +1,3 @@
+### Temas que van a tomar en la autoevaluación
+
+Orientación a Objetos. Clase, objeto/instancia, atributo, método, mensaje. Objetos que conocen a objetos. Variables como punteros. Creación de objetos, Inicialización. El sistema orientado a objetos: UI/Servicio + modelo (nuestros objetos nunca hacen I/O). Modularización. ¿Por qué lo hacemos en objetos? self/this como estrategia para evitar duplicación, aprovechar comportamiento heredado, acortar métodos.

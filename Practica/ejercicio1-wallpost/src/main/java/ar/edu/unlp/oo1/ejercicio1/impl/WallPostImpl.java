@@ -6,16 +6,13 @@ import ar.edu.unlp.oo1.ejercicio1.WallPost;
  * Completar esta clase de acuerdo a lo especificado en el cuadernillo
  *
  */
+
 public class WallPostImpl implements WallPost {
 
-	/**
-	 * Complete con su implementación
-	 */
+	private String text;
+	private int likes;
+	private boolean featured;
 
-	
-	/*
-	 * Este mensaje se utiliza para que una instancia de Wallpost se muestre de forma adecuada
-	 */
     @Override
     public String toString() {
         return "WallPost {" +
@@ -24,6 +21,47 @@ public class WallPostImpl implements WallPost {
             ", featured: '" + isFeatured() + "'" +
             "}";
     }
+
+	@Override
+	public String getText() {
+		return this.text;
+	}
+
+	@Override
+	public void setText(String text) {
+		this.text = text;
+		
+	}
+
+	@Override
+	public int getLikes() {
+		
+		return this.likes;
+	}
+
+	@Override
+	public void like() {
+		this.likes++;
+		
+	}
+
+	@Override
+	public void dislike() {
+		this.likes--;
+		
+	}
+
+	@Override
+	public boolean isFeatured() {
+		return false;
+	}
+
+	@Override
+	public void toggleFeatured() {
+		
+	}
+
+
 
 
 }

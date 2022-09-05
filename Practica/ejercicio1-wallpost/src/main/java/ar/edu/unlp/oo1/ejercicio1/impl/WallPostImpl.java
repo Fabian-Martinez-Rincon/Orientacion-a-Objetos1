@@ -35,7 +35,6 @@ public class WallPostImpl implements WallPost {
 
 	@Override
 	public int getLikes() {
-		
 		return this.likes;
 	}
 
@@ -47,12 +46,18 @@ public class WallPostImpl implements WallPost {
 
 	@Override
 	public void dislike() {
-		this.likes--;
+		if (this.likes > 0){
+			this.likes--;
+		}
+		
 		
 	}
 
 	@Override
 	public boolean isFeatured() {
+		if (this.featured) {
+			return true;
+		}
 		return false;
 	}
 

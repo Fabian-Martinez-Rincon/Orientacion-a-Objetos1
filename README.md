@@ -3,14 +3,14 @@
 <p><img width="250" align='right' src="img/3.png"></p>
 
 - [Condiciones](/Documentos/Condiciones.md)
-- [Ejercicio 1 WallPost](#ejercicio-1-wallpost)
-
+- [Ejercicio 1 WallPost](#1️⃣ejercicio-1-wallpost)
+- [Ejercicio 2 Balanza Electronica](#2️⃣-ejercicio-2-balanza-electrónica)
 
 
 
 ## 📒 Cuadernillo
 
-### Ejercicio 1: WallPost
+### 1️⃣Ejercicio 1: WallPost
 
 
 <details > <summary>  Primera Parte</summary>
@@ -109,5 +109,43 @@ Una vez que su implementación pasa los tests de la primera parte puede utilizar
 
 
 Para visualizar la ventana, sobre el proyecto, usar la opción del menú contextual Run As >> Java Application. La ventana permite cambiar el texto del post, incrementar la cantidad de likes, etc. El botón Print to Console imprimirá los datos del post en la consola.  
+
+</details>
+
+### 2️⃣ Ejercicio 2: Balanza Electrónica
+
+<details> <summary>Introducción</summary>
+<br>
+En el taller de programación ud programó una balanza electrónica. Volveremos a programarla, con algún requerimiento adicional.  
+
+En términos generales, la Balanza electrónica recibe productos (uno a uno), y calcula dos totales: peso total y precio total. Además la balanza puede poner en cero todos sus valores.  
+
+La balanza no guarda los productos. Luego emite un ticket que indica número de productos considerados, peso total, precio total. 
+
+</details>
+
+<details > <summary>Implemente</summary>
+<br>
+Cree un nuevo proyecto Maven llamado balanzaElectronica, siguiendo los pasos del documento “Trabajando con proyectos Maven, crear un proyecto Maven nuevo”. En el paquete correspondiente,  programe las clases que se muestran a continuación.
+
+![image](https://user-images.githubusercontent.com/55964635/185829737-ff630cea-0cf6-4093-bc9a-bd4ee3d5bb47.png)
+
+![image](https://user-images.githubusercontent.com/55964635/185829825-33b9e71d-09ef-4b7f-88e0-f75e3a8523d6.png)
+
+Observe que no se documentan en el diagrama los mensajes que nos permiten obtener y establecer los atributos de los objetos (accessors). Aunque no los incluimos, verá que los tests fallan si no los implementa. Consulte con el ayudante para identificar, a partir de los tests que fallan, cuales son los accessors necesarios (pista: todos menos los setters de balanza).  
+
+Todas las clases son subclases de Object. 
+
+Nota: Para las fechas, utilizaremos la clase java.time.LocalDate. Para crear la fecha actual, puede utilizar LocalDate.now(). También es posible crear fechas distintas a la actual. Puede investigar más sobre esta clase en https://docs.oracle.com/javase/8/docs/api/java/time/LocalDate.html 
+
+</details>
+
+
+<details> <summary>Probando su implementación</summary>
+<br>
+
+Para realizar este ejercicio, utilice el recurso que se encuentra en el sitio de la cátedra. En este caso, se trata de dos clases, BalanzaTest y ProductoTest, las cuales debe agregar dentro del paquete tests. Haga las modificaciones necesarias para que el proyecto no tenga errores.  
+
+Si todo salió bien, su implementación debería pasar las pruebas que definen las clases agregadas en el paso anterior. El propósito de estas clases es ejercitar una instancia de la clase Balanza y verificar que se comporta correctamente
 
 </details>

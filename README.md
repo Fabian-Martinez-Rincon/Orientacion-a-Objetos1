@@ -3,14 +3,14 @@
 <p><img width="250" align='right' src="img/3.png"></p>
 
 - [Condiciones](/Documentos/Condiciones.md)
-- [Ejercicio 1 WallPost](#1️⃣ejercicio-1-wallpost)
+- [Ejercicio 1 WallPost](#ejercicio-1-wallpost)
 
 
 
 
 ## 📒 Cuadernillo
 
-### 1️⃣Ejercicio 1: WallPost
+### Ejercicio 1: WallPost
 
 
 <details > <summary>  Primera Parte</summary>

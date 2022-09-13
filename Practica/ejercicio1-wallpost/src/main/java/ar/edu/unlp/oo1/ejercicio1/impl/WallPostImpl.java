@@ -9,7 +9,7 @@ import ar.edu.unlp.oo1.ejercicio1.WallPost;
 
 public class WallPostImpl implements WallPost {
 
-	private String text;
+	private String text = "Undefined post";
 	private int likes;
 	private boolean featured;
 
@@ -49,8 +49,6 @@ public class WallPostImpl implements WallPost {
 		if (this.likes > 0){
 			this.likes--;
 		}
-		
-		
 	}
 
 	@Override
@@ -63,7 +61,7 @@ public class WallPostImpl implements WallPost {
 
 	@Override
 	public void toggleFeatured() {
-		
+		this.featured = !this.featured;
 	}
 
 

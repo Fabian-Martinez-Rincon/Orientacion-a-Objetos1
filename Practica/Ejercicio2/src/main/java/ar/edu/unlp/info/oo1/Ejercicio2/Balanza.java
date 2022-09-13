@@ -1,7 +1,6 @@
 package ar.edu.unlp.info.oo1.Ejercicio2;
 import java.time.LocalDate;
 
-
 public class Balanza {
 	private int cantidadDeProductos;
 	private double precioTotal;

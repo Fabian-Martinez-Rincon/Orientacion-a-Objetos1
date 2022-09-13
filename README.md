@@ -5,46 +5,217 @@
 - [Pacto para aprobar](/Documentos/Condiciones.md)
 - [Ejercicio 1 WallPost](#1️⃣ejercicio-1-wallpost)
 - [Ejercicio 2 Balanza Electronica](#2️⃣-ejercicio-2-balanza-electrónica)
+  - [Balanza](#balanza)
+  - [Producto](#producto)
+  - [Ticket](#ticket)
 - [Ejercicio 3 Presupuestos](#3️⃣-ejercicio-3-presupuestos)
 - [Ejercicio 3-Bis Balanza Mejorada](#3️⃣-ejercicio-3-bis-balanza-mejorada)
 - [Ejercicio 4 Figuras y cuerpos](#4️⃣-ejercicio-4-figuras-y-cuerpos)
 - [Ejercicio 5 Genealogía salvaje](#5️⃣-ejercicio-5-genealogía-salvaje)
 
 
+## 1️⃣Ejercicio 1: WallPost
 
-## 📒 Cuadernillo
+```Java
+package ar.edu.unlp.oo1.ejercicio1.impl;
+import ar.edu.unlp.oo1.ejercicio1.WallPost;
 
-### 1️⃣Ejercicio 1: WallPost
+public class WallPostImpl implements WallPost {
+
+	private String text = "Undefined post";
+	private int likes;
+	private boolean featured;
+
+    @Override
+    public String toString() {
+        return "WallPost {" +
+            "text: " + getText() +
+            ", likes: '" + getLikes() + "'" +
+            ", featured: '" + isFeatured() + "'" +
+            "}";
+    }
+
+	@Override
+	public String getText() {
+		return this.text;
+	}
+
+	@Override
+	public void setText(String text) {
+		this.text = text;
+		
+	}
+
+	@Override
+	public int getLikes() {
+		return this.likes;
+	}
+
+	@Override
+	public void like() {
+		this.likes++;
+		
+	}
+
+	@Override
+	public void dislike() {
+		if (this.likes > 0){
+			this.likes--;
+		}
+	}
+
+	@Override
+	public boolean isFeatured() {
+		if (this.featured) {
+			return true;
+		}
+		return false;
+	}
+
+	@Override
+	public void toggleFeatured() {
+		this.featured = !this.featured;
+	}
+}
+```
+
+## 2️⃣ Ejercicio 2: Balanza Electrónica
+
+### Balanza
+
+```Java
+package ar.edu.unlp.info.oo1.Ejercicio2;
+import java.time.LocalDate;
+
+public class Balanza {
+	private int cantidadDeProductos;
+	private double precioTotal;
+	private double pesoTotal;
+	
+	public void ponerEnCero(){
+		this.cantidadDeProductos = 0;
+		this.precioTotal = 0;
+		this.pesoTotal = 0;
+	}
+	
+	public void agregarProducto(Producto producto) {
+		this.cantidadDeProductos++;
+		this.pesoTotal += producto.getPeso();
+		this.precioTotal += producto.getPrecio();
+	}
+	
+	public Ticket emitirTicket() {
+		Ticket t = new Ticket(LocalDate.now() ,this.cantidadDeProductos,this.precioTotal,this.pesoTotal);
+		return t;
+	}
+	public int getCantidadDeProductos() {
+		return this.cantidadDeProductos;
+	}
+	public double getPrecioTotal() {
+		return this.precioTotal;
+	}
+	public double getPesoTotal() {
+		return this.pesoTotal;
+	}
+}
+```
+
+### Producto
+
+```Java
+package ar.edu.unlp.info.oo1.Ejercicio2;
+
+public class Producto {
+	private double peso;
+	private double precioPorKilo;
+	private String descripcion;
+	
+	public double getPrecio(){
+		return this.peso * this.precioPorKilo;
+	}
+	
+	public double getPeso() {
+		return peso;
+	}
+	public void setPeso(double peso) {
+		this.peso = peso;
+	}
+	
+	public double getPrecioPorKilo() {
+		return precioPorKilo;
+	}
+	public void setPrecioPorKilo(double precioPorKilo) {
+		this.precioPorKilo = precioPorKilo ;
+	}
+	
+	public String getDescripcion() {
+		return descripcion;
+	}
+	public void setDescripcion(String descripcion) {
+		this.descripcion = descripcion;
+	}
+
+}
+```
+
+### Ticket
+```Java
+package ar.edu.unlp.info.oo1.Ejercicio2;
+import java.time.LocalDate;
+
+public class Ticket {
+	private LocalDate fecha;
+	private int cantidadDeProductos;
+	private double pesoTotal = 0;
+	private double precioTotal;
+	
+	public double impuesto() {
+		return this.precioTotal*(0.21);
+	}
+	
+	public Ticket(LocalDate fecha, int cantidadDeProductos, double precioTotal, double pesoTotal) {
+		this.fecha = fecha;
+		this.cantidadDeProductos = cantidadDeProductos;
+		this.pesoTotal = pesoTotal;
+		this.precioTotal = precioTotal;
+	}
+	
+	public int getCantidadDeProductos() {
+		return cantidadDeProductos;
+	}
+	public LocalDate getFecha() {
+		return this.fecha;
+	}
+
+	public double getPrecioTotal() {
+		return this.precioTotal;
+	}
+	public double getPesoTotal() {
+		return this.pesoTotal;
+	}
+
+}
+```
+
+## 3️⃣ Ejercicio 3: Presupuestos
 
 ```Java
 
 ```
 
-### 2️⃣ Ejercicio 2: Balanza Electrónica
+## 3️⃣ Ejercicio 3-Bis: Balanza mejorada
 
 ```Java
 
 ```
 
-### 3️⃣ Ejercicio 3: Presupuestos
+## 4️⃣ Ejercicio 4: Figuras y cuerpos
 
 ```Java
 
 ```
 
-### 3️⃣ Ejercicio 3-Bis: Balanza mejorada
-
-```Java
-
-```
-
-### 4️⃣ Ejercicio 4: Figuras y cuerpos
-
-```Java
-
-```
-
-### 5️⃣ Ejercicio 5: Genealogía salvaje
+## 5️⃣ Ejercicio 5: Genealogía salvaje
 
 ```Java
 

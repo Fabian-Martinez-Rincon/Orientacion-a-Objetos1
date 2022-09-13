@@ -1,11 +1,5 @@
 package ar.edu.unlp.oo1.ejercicio1.impl;
-
 import ar.edu.unlp.oo1.ejercicio1.WallPost;
-
-/**
- * Completar esta clase de acuerdo a lo especificado en el cuadernillo
- *
- */
 
 public class WallPostImpl implements WallPost {
 
@@ -63,8 +57,4 @@ public class WallPostImpl implements WallPost {
 	public void toggleFeatured() {
 		this.featured = !this.featured;
 	}
-
-
-
-
 }

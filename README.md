@@ -13,15 +13,6 @@
 - [Ejercicio 4 Figuras y cuerpos](#4️⃣-ejercicio-4-figuras-y-cuerpos)
 - [Ejercicio 5 Genealogía salvaje](#5️⃣-ejercicio-5-genealogía-salvaje)
 
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
 ## 1️⃣Ejercicio 1: WallPost
 
 ```java
@@ -130,7 +121,7 @@ public class Balanza {
 
 ### Producto
 
-```Java
+```java
 package ar.edu.unlp.info.oo1.Ejercicio2;
 
 public class Producto {
@@ -167,7 +158,8 @@ public class Producto {
 ```
 
 ### Ticket
-```Java
+
+```java
 package ar.edu.unlp.info.oo1.Ejercicio2;
 import java.time.LocalDate;
 
@@ -207,24 +199,24 @@ public class Ticket {
 
 ## 3️⃣ Ejercicio 3: Presupuestos
 
-```Java
+```java
 
 ```
 
 ## 3️⃣ Ejercicio 3-Bis: Balanza mejorada
 
-```Java
+```java
 
 ```
 
 ## 4️⃣ Ejercicio 4: Figuras y cuerpos
 
-```Java
+```java
 
 ```
 
 ## 5️⃣ Ejercicio 5: Genealogía salvaje
 
-```Java
+```java
 
 ```

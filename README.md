@@ -1,6 +1,6 @@
 <h1 align="center">  Orientación a Objetos 1</h1>
 
-<p><img width="250" align='right' src="img/3.png"></p>
+<p><img width="250" align='right' src="https://media.giphy.com/media/kDO5RDvqN0nLUxzN1i/giphy.gif"></p>
 
 - [Pacto para aprobar](/Documentos/Condiciones.md)
 - [Ejercicio 1 WallPost](#1️⃣ejercicio-1-wallpost)

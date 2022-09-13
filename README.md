@@ -14,9 +14,17 @@
 - [Ejercicio 5 Genealogía salvaje](#5️⃣-ejercicio-5-genealogía-salvaje)
 
 
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
 ## 1️⃣Ejercicio 1: WallPost
 
-```Java
+```java
 package ar.edu.unlp.oo1.ejercicio1.impl;
 import ar.edu.unlp.oo1.ejercicio1.WallPost;
 
@@ -83,7 +91,7 @@ public class WallPostImpl implements WallPost {
 
 ### Balanza
 
-```Java
+```java
 package ar.edu.unlp.info.oo1.Ejercicio2;
 import java.time.LocalDate;
 

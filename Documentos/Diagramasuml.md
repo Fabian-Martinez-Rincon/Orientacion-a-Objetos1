@@ -101,7 +101,7 @@ La notación para indicar la relación de generalización es una flecha con la p
 
 <p><img  align='left' src="../img/Diagramas/5.png"></p>
 
-La interfaz se denota con el estereotipo <\<interface>>.\
+La interfaz se denota con el estereotipo <\<interface>\>.\
 **1)** El nombre debe denotarse en cursiva\
 **2)** Los métodos de la interface son públicos y abstractos\
 **3)** La relación con la clase que la implementa, se representa con una flecha sin relleno

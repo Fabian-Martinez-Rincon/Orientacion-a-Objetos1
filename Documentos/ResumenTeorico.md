@@ -1,3 +1,3 @@
 ## Resumen Teorico
 
-- [Pagina anterior](/)
+- [Pagina anterior](/OO1/)

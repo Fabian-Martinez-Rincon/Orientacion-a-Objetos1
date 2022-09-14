@@ -3,6 +3,7 @@
 <p><img width="250" align='right' src="https://media.giphy.com/media/kDO5RDvqN0nLUxzN1i/giphy.gif"></p>
 
 - [Pacto para aprobar](/Documentos/Condiciones.md)
+- [Resumen Teorico](/Documentos/ResumenTeorico.md)
 - [Ejercicio 1 WallPost](#1️⃣ejercicio-1-wallpost)
 - [Ejercicio 2 Balanza Electronica](#2️⃣-ejercicio-2-balanza-electrónica)
   - [Balanza](#balanza)

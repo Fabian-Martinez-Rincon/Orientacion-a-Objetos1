@@ -120,9 +120,22 @@ Un principio fundamental de la POO es que las cosas se escriben una sola vez y d
 Los siguientes son patrones de estilo y buenas prácticas de programación que deberían  respetar nuestros programas.
 
 ### Ofrecer constructores
+Simplifica la tarea de quien crea los objetos. Garantizan una buena inicialización.
+
 ### Nombre de mensaje que revela la intención
+Que el nombre del mensaje comunique lo que se quiere hacer, no cómo.
+
 ### Delegación a this
+Permite descomponer un método en partes que el mismo objeto resuelve. Cada método hace una cosa. Su nombre indica lo que hace. Quedan todos cortos. Permite que la subclase redefina/extienda solo un paso. 
+
 ### Métodos cortos
+Siempre prefiere tener métodos cortos. Para lograrlo utiliza delegación a this. Para que sean más fáciles de leer, utiliza nombres de mensajes que revelen la intención (servirán como documentación de lo que hace el código)
+
 ### Cada cosa se hace una sola vez
+Para ello es importante aprender el protocolo de colecciones y otros objetos frecuentemente utilizados. Es recomendable explorar el protocolo de los objetos que voy a utilizar antes de comenzar a programar.
+
 ### Los nombres de las variables deben indicar su rol
+Elige los nombres de las variables para que quede claro qué rol cumplen en el método / clase. Los nombres de variables siempre comienzan con minúscula. No temas a los nombres de las variables largos, con varias palabras y sintaxis de camello. 
+
 ### Piensa bien los nombres de las clases
+Estos siempre inician con mayúscula y singular. No temas a los nombres de clase largos, con varias palabras y sintaxis de camello. Si se puede, que el nombre de la subclase ayude a reconocer que es un caso particular de la superclase (por ejemplo, agregando alguna palabra al nombre de la superclase para definir un caso especial:  EmpleadoDePlanta subclase de Empleado)

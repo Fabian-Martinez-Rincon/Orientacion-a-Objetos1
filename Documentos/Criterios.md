@@ -4,7 +4,7 @@
 
 **Heurística** : conjunto de técnicas o métodos para resolver un problema.
 
-- [Malos olores de diseño](#estilo-de-programación)
+- [Malos olores de diseño](#malos-olores-de-diseño)
     - [Envidia de atributos](#envidia-de-atributos)
     - [Clase Dios](#clase-dios)
     - [Código duplicado](#código-duplicado)

@@ -4,15 +4,19 @@
 
 - [Pacto para aprobar](/Documentos/Condiciones.md)
 - [Resumen Teorico](/Documentos/ResumenTeorico.md)
-- [Ejercicio 1 WallPost](#1️⃣ejercicio-1-wallpost)
-- [Ejercicio 2 Balanza Electronica](#2️⃣-ejercicio-2-balanza-electrónica)
-  - [Balanza](#balanza)
-  - [Producto](#producto)
-  - [Ticket](#ticket)
-- [Ejercicio 3 Presupuestos](#3️⃣-ejercicio-3-presupuestos)
-- [Ejercicio 3-Bis Balanza Mejorada](#3️⃣-ejercicio-3-bis-balanza-mejorada)
-- [Ejercicio 4 Figuras y cuerpos](#4️⃣-ejercicio-4-figuras-y-cuerpos)
-- [Ejercicio 5 Genealogía salvaje](#5️⃣-ejercicio-5-genealogía-salvaje)
+- [Criterios y heurísticas de diseño]()
+- [Ejercicios](#ejercicios)
+	- [1) WallPost](#1️⃣ejercicio-1-wallpost)
+	- [2) Balanza Electronica](#2️⃣-ejercicio-2-balanza-electrónica)
+		- [Balanza](#balanza)
+		- [Producto](#producto)
+		- [Ticket](#ticket)
+	- [3) Presupuestos](#3️⃣-ejercicio-3-presupuestos)
+	- [3-Bis) Balanza Mejorada](#3️⃣-ejercicio-3-bis-balanza-mejorada)
+	- [4) Figuras y cuerpos](#4️⃣-ejercicio-4-figuras-y-cuerpos)
+	- [5) Genealogía salvaje](#5️⃣-ejercicio-5-genealogía-salvaje)
+
+# Ejercicios
 
 ## 1️⃣Ejercicio 1: WallPost
 

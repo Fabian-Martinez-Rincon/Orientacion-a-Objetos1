@@ -1,8 +1,10 @@
 <h1 align="center">  Orientación a Objetos 1</h1>
 
+Tanto la Orientación a objetos como cualquier otro paradigma de desarrollo es muy independiente del lenguaje de programación. Nosotros tenemos un activo mucho mas importante aparte de aprender el lenguaje, y este es el aprender los conceptos y de arquitectura y de diseño de software, principalmente porque los lenguajes estan constantemente evolucionando.
+
 <p><img width="250" align='right' src="https://media.giphy.com/media/kDO5RDvqN0nLUxzN1i/giphy.gif"></p>
 
-Tanto la Orientación a objetos como cualquier otro paradigma de desarrollo es muy independiente del lenguaje de programación. Nosotros tenemos un activo mucho mas importante aparte de aprender el lenguaje, y este es el aprender los conceptos y de arquitectura y de diseño de software, principalmente porque los lenguajes estan constantemente evolucionando.
+
 
 
 - [Pacto para aprobar](/Documentos/Condiciones.md)

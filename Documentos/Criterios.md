@@ -1,5 +1,7 @@
 # Criterios y heurísticas de diseño
 
+- [Pagina anterior](/OO1/)
+
 **Heurística** : conjunto de técnicas o métodos para resolver un problema.
 
 - [Malos olores de diseño](#estilo-de-programación)
@@ -114,6 +116,8 @@ Cuando encontramos un método que redefine a uno heredado pero hace algo totalme
 Un principio fundamental de la POO es que las cosas se escriben una sola vez y donde corresponde. De esa manera, mis módulos (objetos/métodos) son más fáciles de mantener y reutilizar. Tiene mal olor cuando defino comportamiento que sospecho que ya está programado en algún lado (hay algún objeto que ya sabe hacer eso). Un ejemplo en Java sería implementar en base a "for (int it = 0; ...; i++)" cosas que las colecciones, los iteradores y los streams ya saben hacer.
 
 **Para evitarlo:** investigo y aprendo las clases y protocolos que ofrecen las librerías de objetos a mi disposición. Intento siempre utilizar comportamiento que ya fue definido. Presto especial atención cuando utilizo colecciones, fechas, ...
+
+---
 
 # Estilo de programación
 

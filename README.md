@@ -5,6 +5,7 @@
 - [Pacto para aprobar](/Documentos/Condiciones.md)
 - [Resumen Teorico](/Documentos/ResumenTeorico.md)
 - [Criterios y heurísticas de diseño](/Documentos/Criterios.md)
+- [Diagrama de clases UML](/Documentos/Diagramasuml.md)
 - [Ejercicios](#ejercicios)
 	- [1) WallPost](#1️⃣ejercicio-1-wallpost)
 	- [2) Balanza Electronica](#2️⃣-ejercicio-2-balanza-electrónica)

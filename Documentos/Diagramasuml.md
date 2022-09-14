@@ -73,6 +73,8 @@ Los diferentes tipos de asociaciones se denotan con distintos tipos de flechas
 **2)** Agregación\
 **3)** Composición
 
+<br>
+
 Si tenemos una asociación entre dos clases, se debe indicar en los extremos navegables:
 - El nombre del rol.
 - La multiplicidad, salvo que sea 1. Puede ser un número fijo, por ejemplo 4, o puede

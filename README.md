@@ -7,8 +7,6 @@
 - [Diagrama de clases UML](/Documentos/Diagramasuml.md)
 - [Teoria]()
 	- [Teoria 1](/Documentos/Teoria1.md)
-	- [Teoria 2](/Documentos/Teoria2.md)
-	- [Teoria 3](/Documentos/Teoria3.md)
 - [Ejercicios](#ejercicios)
 	- [1) WallPost](#1️⃣ejercicio-1-wallpost)
 	- [2) Balanza Electronica](#2️⃣-ejercicio-2-balanza-electrónica)

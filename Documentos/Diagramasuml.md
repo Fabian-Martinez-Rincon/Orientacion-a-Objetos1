@@ -48,7 +48,7 @@ especifica el retorno\
     **+​ dashSpacing​ ( ​totalDistance: Integer, spaceLength: Integer​ )**
 - En el caso que la operación retorne una colección, debe indicarse la multiplicidad de la forma:\
     **+​ obtenerOfertasDelDia​ ():​ ​ Oferta​ [*]**
--  En el caso que las operaciones sean abstractas, se deben anotar en cursiva o con el estereotipo <\<abstract>>
+-  En el caso que las operaciones sean abstractas, se deben anotar en cursiva o con el estereotipo <\<abstract>>\
     **+ calcularSueldo (): Real**\
     **« abstract » + calcularSueldo (): Real**
 - Si se trata de un constructor, debe ser precedido por el estereotipo <\<create>>

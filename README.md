@@ -3,9 +3,12 @@
 <p><img width="250" align='right' src="https://media.giphy.com/media/kDO5RDvqN0nLUxzN1i/giphy.gif"></p>
 
 - [Pacto para aprobar](/Documentos/Condiciones.md)
-- [Resumen Teorico](/Documentos/ResumenTeorico.md)
 - [Criterios y heurísticas de diseño](/Documentos/Criterios.md)
 - [Diagrama de clases UML](/Documentos/Diagramasuml.md)
+- [Teoria]()
+	- [Teoria 1](/Documentos/Teoria1.md)
+	- [Teoria 2](/Documentos/Teoria2.md)
+	- [Teoria 3](/Documentos/Teoria3.md)
 - [Ejercicios](#ejercicios)
 	- [1) WallPost](#1️⃣ejercicio-1-wallpost)
 	- [2) Balanza Electronica](#2️⃣-ejercicio-2-balanza-electrónica)

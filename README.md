@@ -6,22 +6,25 @@
 
 
 
-- [Pacto para aprobar](/Documentos/Condiciones.md)
+- [Condiciones para Aprobar](/Documentos/Condiciones.md)
 - [Criterios y heurísticas de diseño](/Documentos/Criterios.md)
 - [Diagrama de clases UML](/Documentos/Diagramasuml.md)
 - [Interfaces en Java y UML](/Documentos/)
-- [Teoria]()
-	- [Teoria 1](/Documentos/Teoria1.md)
-- [Ejercicios](#ejercicios)
-	- [1) WallPost](#1️⃣ejercicio-1-wallpost)
-	- [2) Balanza Electronica](#2️⃣-ejercicio-2-balanza-electrónica)
-		- [Balanza](#balanza)
-		- [Producto](#producto)
-		- [Ticket](#ticket)
-	- [3) Presupuestos](#3️⃣-ejercicio-3-presupuestos)
-	- [3-Bis) Balanza Mejorada](#3️⃣-ejercicio-3-bis-balanza-mejorada)
-	- [4) Figuras y cuerpos](#4️⃣-ejercicio-4-figuras-y-cuerpos)
-	- [5) Genealogía salvaje](#5️⃣-ejercicio-5-genealogía-salvaje)
+- [Super]()
+
+
+
+**Ejercicios**
+
+- [1) WallPost](#1️⃣ejercicio-1-wallpost)
+- [2) Balanza Electronica](#2️⃣-ejercicio-2-balanza-electrónica)
+	- [Balanza](#balanza)
+	- [Producto](#producto)
+	- [Ticket](#ticket)
+- [3) Presupuestos](#3️⃣-ejercicio-3-presupuestos)
+- [3-Bis) Balanza Mejorada](#3️⃣-ejercicio-3-bis-balanza-mejorada)
+- [4) Figuras y cuerpos](#4️⃣-ejercicio-4-figuras-y-cuerpos)
+- [5) Genealogía salvaje](#5️⃣-ejercicio-5-genealogía-salvaje)
 
 # Ejercicios
 

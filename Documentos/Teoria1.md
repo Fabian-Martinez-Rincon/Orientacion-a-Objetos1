@@ -26,9 +26,9 @@ objetos que colaboran para llevar a cabo sus responsabilidades.
 - Este mismo modelo nos permite entender (al menos en parte) otros modelos de computación: viendo a los objetos como proveedores de servicios por ejemplo
 - Este mismo modelo no asume objetos localizados en el mismo espacio de memoria (pueden estar distribuidos)
 
-Impacto enc omo **"pensamos el software"**
+Impacto en como **"pensamos el software"**
 
 - La estructura general cambia: en vez de una jerarquía: Main/procedures/sub-procedures tenemos una red de “cosas” que se comunican.
 - Pensamos en que **“cosas”** hay en nuestro software (los objetos) y como se comunican entre sí.
 - Hay un **“shift”** mental crítico en forma en la cual pensamos el software como objetos
-- ****Mientras que la estructura sintáctica es “lineal” el programa en ejecucion no lo és
+- **Mientras que la estructura sintáctica es “lineal” el programa en ejecucion no lo és**

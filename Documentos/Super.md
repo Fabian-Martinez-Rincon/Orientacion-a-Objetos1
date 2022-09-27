@@ -45,12 +45,19 @@ new Calefaccion().encender();
 ```
 
 ## Sobre escribír metodos
+
+
+
+
+
+
+
+
+<table><tr><td> Explicación </td> <td> Grafico </td></tr>
+<tr><td>
+ 
 - La búsqueda en la cadena de superclases termina tan pronto encuentro un método cuya firma coincide con la que busco.
 - Si heredaba un método con la misma firma, el mismo queda 'oculto'
-
-<img width="152" align='left'  src = 'https://user-images.githubusercontent.com/55964635/192596770-db030a56-4833-4473-940e-d75160026415.png'>
-
-
 
 ```java
 public void actionOne(){ // Metodo de A
@@ -61,6 +68,14 @@ public void actionOne(){ // Metodo de B
     // Hacer algo como le gusta a B
 }
 ```
+</td><td>
+ 
+<img width="532" align='left'  src = 'https://user-images.githubusercontent.com/55964635/192596770-db030a56-4833-4473-940e-d75160026415.png'>
+ 
+</td></tr>
+</table>
+
+
 
 ```java
 new B().actionOne();

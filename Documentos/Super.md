@@ -114,31 +114,30 @@ new B().actionOne();
 Cuando **super** recibe un mensaje, la búsqueda de métodos comienza en la clase **inmediata superior** a aquella donde está definido el método que envía el mensaje(sin importar la clase del receptor)
 
 ```java
-new A().actionOne(); 
-//Lo busca, lo encuentra y lo ejecuta 👍
-new B().actionOne();
-// Ejecuta el actionOne de abajo, el actionTwo propio,
-// despues el actionOne
-// del padre (A) y por ultimo el actionTwo propio otra vez
-new C().actionOne();
-// Como no encuentra el metodo lo busca en el padre (B)
-// Ejecuta actionTwo() de la clase C, por el this
-// Cuando un objeto recibe un mensaje y a este lo
-// referian como super, la busqueda del metodo
-// comienza en la clase superior a aquella en 
-// donde esta el metodo que dice 'super', el metodo
-// que dice super esta en B, entonces empieza a 
-// buscar en A
-```
-
-```java
 public void actionOne(){
     this.actionTwo();
     super.actionOne();
     this.actionTwo();
 }
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+- new A().actionOne(); 
+    - Lo busca, lo encuentra y lo ejecuta 👍
+- new B().actionOne();
+    - Ejecuta el actionOne de abajo, el actionTwo propio
+    - Despues el actionOne
+    - Del padre (A) y por ultimo el actionTwo propio otra vez
+- new C().actionOne();
+    - Como no encuentra el metodo lo busca en el padre (B)
+    - Ejecuta actionTwo() de la clase C, por el this
+    - Cuando un objeto recibe un mensaje y a este lo referian como super, la busqueda del metodo comienza en la clase superior a aquella en donde esta el metodo que dice 'super'
+    - el metodo que dice super esta en B, entonces empieza a buscar en A
 
 
 ## Super() en los constructores

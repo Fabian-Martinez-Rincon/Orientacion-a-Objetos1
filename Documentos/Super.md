@@ -57,17 +57,21 @@ new Calefaccion().encender();
 <tr><td>
  
 - La búsqueda en la cadena de superclases termina tan pronto encuentro un método cuya firma coincide con la que busco.
+
 - Si heredaba un método con la misma firma, el mismo queda 'oculto'
 
-```java
-public void actionOne(){ // Metodo de A
+<pre class="line-numbers">
+   <code class="language-java">
+      public void actionOne(){ // Metodo de A
     // Hacer algo como le gusta a A
-}
+    }
 
-public void actionOne(){ // Metodo de B
-    // Hacer algo como le gusta a B
-}
-```
+    public void actionOne(){ // Metodo de B
+        // Hacer algo como le gusta a B
+    }
+   </code>
+</pre>
+
 </td><td>
  
 <img width="532" align='left'  src = 'https://user-images.githubusercontent.com/55964635/192596770-db030a56-4833-4473-940e-d75160026415.png'>

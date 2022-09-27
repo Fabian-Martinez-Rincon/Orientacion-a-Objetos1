@@ -9,7 +9,7 @@
 - [Condiciones para Aprobar](/Documentos/Condiciones.md)
 - [Criterios y heurísticas de diseño](/Documentos/Criterios.md)
 - [Diagrama de clases UML](/Documentos/Diagramasuml.md)
-- [Interfaces en Java y UML](/Documentos/)
+- [Interfaces en Java y UML](/Documentos/interfacesenjava.md)
 - [Super](/Documentos/Super.md)
 
 

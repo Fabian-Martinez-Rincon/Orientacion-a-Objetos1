@@ -30,11 +30,13 @@ En esta instancia de Puerta, le envio encender y el compilador ya sabe que mi ob
 
 ## Method Lookup con herencia
 
+| Explicación  | Grafico |
+| ------------- | ------------- |
+| Cuando un objeto recibe un mensaje, se busca en su clase un método cuya firma se corresponda con el mensaje. Si no lo encuentra, sigue buscando en la superclase de su clase, y en la superclase de esta..  | <img width="1020"   src = 'https://user-images.githubusercontent.com/55964635/192593948-5ef01c06-4db4-461f-819e-7618228fbbfc.png'>  |
 
 
-<img width="250" align='right'  src = 'https://user-images.githubusercontent.com/55964635/192593948-5ef01c06-4db4-461f-819e-7618228fbbfc.png'>
 
-Cuando un objeto recibe un mensaje, se busca en su clase un método cuya firma se corresponda con el mensaje. Si no lo encuentra, sigue buscando en la superclase de su clase, y en la superclase de esta..
+
 
 
 ```java

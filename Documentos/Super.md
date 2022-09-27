@@ -1,4 +1,14 @@
-# Recordemos
+
+- [Method Lookup](#method-lookup)
+- [Method Lookup con herencia](#method-lookup-con-herencia)
+- [Sobre escribír metodos (overriding)](#sobre-escribír-metodos)
+- [Extender Métodos](#extender-métodos)
+- [Super](#super)
+- [Super y el Method Lookup](#super-y-el-method-lookup)
+- [Super() en los constructores](#super-en-los-constructores)
+
+
+## Method Lookup
 
 Antes de avanzar con super, recordemos primero que ocurre cuando un objeto recibe un mensaje (cuando alguien invoca un metodo de un objeto)
 
@@ -14,9 +24,13 @@ Cuando tengo un error al querer mandarle mensajes a objetos que no van a entende
 existen
 
 
-# Super
+## Method Lookup con herencia
 
+## Sobre escribír metodos
 
+## Extender Métodos
 
+## Super
 
-
+## Super y el Method Lookup
+## Super() en los constructores

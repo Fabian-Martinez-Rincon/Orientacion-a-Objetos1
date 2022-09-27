@@ -10,7 +10,7 @@
 - [Criterios y heurísticas de diseño](/Documentos/Criterios.md)
 - [Diagrama de clases UML](/Documentos/Diagramasuml.md)
 - [Interfaces en Java y UML](/Documentos/)
-- [Super]()
+- [Super](/Documentos/Super.md)
 
 
 

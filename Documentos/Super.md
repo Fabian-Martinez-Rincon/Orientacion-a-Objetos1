@@ -66,10 +66,76 @@ new B().actionOne();
 Aca tengo una instancia de B y esa instancia le digo 'actionOne', va a su clase a buscar el metodo actionOne, lo encuentra y lo ejecuta, FIN. El problema de esto es que nadie sabe que tenemos ese mismo metodo en la clase A, entonces decimos que se sobre Escribe ese metodo o queda oculto (no es muy frecuente usar la sobre escritura de metodos ya que la mayoria de las herencias siguen la logica de 'esUn')
 
 
-
 ## Extender Métodos
+Pensemos en el caso de que B no tiene problemas del comportamiento que hereda, como en el caso anterior que practicamente hacia una cosa totalmente distinta y se perdia información.
+En este caso, hace lo que hereda sin perder información pero tambien puede hacer más.
+
+<img width="152" align='left'  src = 'https://user-images.githubusercontent.com/55964635/192596770-db030a56-4833-4473-940e-d75160026415.png'>
+
+
+
+```java
+public void actionOne(){ // Metodo de A
+    // Hacer algo como le gusta a A
+}
+
+public void actionOne(){ // Metodo de B
+    // Hacer algo como le gusta a B
+    // Hacer algo como le gusta a A
+    // Hacer algo como le gusta a B
+}
+```
+
+```java
+new B().actionOne();
+```
+
 
 ## Super
+- **Podemos pensar a super** como una `pseudo-variable` (como this)
+    - no puedo asignarle valor
+    - Toma valor automáticamente cuando un objeto comienza a ejecutar un método
+- En un método, '**super y this**' hacer referencia al objeto que ejecuta (al receptor del mensaje)
+- Utilizar super en lugar del this 'solo cambia la forma en la que se hace el method lokup'
+- Se utiliza para:
+    - Solamente para extender comportamiento heredado (reimplementar un método e incluir el comportamiento que se heredaba para él)
 
 ## Super y el Method Lookup
+
+<img width="132" align='left'  src = 'https://user-images.githubusercontent.com/55964635/192617819-bb67dd5b-9a90-47ae-b8aa-f27a7db6d6c8.png'>
+
+Cuando **super** recibe un mensaje, la búsqueda de métodos comienza en la clase **inmediata superior** a aquella donde está definido el método que envía el mensaje(sin importar la clase del receptor)
+
+```java
+new A().actionOne(); 
+//Lo busca, lo encuentra y lo ejecuta 👍
+new B().actionOne();
+// Ejecuta el actionOne de abajo, el actionTwo propio,
+// despues el actionOne
+// del padre (A) y por ultimo el actionTwo propio otra vez
+new C().actionOne();
+// Como no encuentra el metodo lo busca en el padre (B)
+// Ejecuta actionTwo() de la clase C, por el this
+// Cuando un objeto recibe un mensaje y a este lo
+// referian como super, la busqueda del metodo
+// comienza en la clase superior a aquella en 
+// donde esta el metodo que dice 'super', el metodo
+// que dice super esta en B, entonces empieza a 
+// buscar en A
+```
+
+```java
+public void actionOne(){
+    this.actionTwo();
+    super.actionOne();
+    this.actionTwo();
+}
+```
+
+
+
 ## Super() en los constructores
+- Los constructores en Java son subrutinas que se ejecutan en la creación de objetos
+- No se heredan
+- Si quiero reutilizar comportamiento de otro constructor debo imbocarlo explícitamente
+    - Uso super(...) para invocar un constructor en la superclase de mi clase

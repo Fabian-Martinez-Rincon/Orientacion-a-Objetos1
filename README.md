@@ -235,3 +235,11 @@ public class Ticket {
 ```java
 
 ```
+
+
+## Ejercicio 8
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |

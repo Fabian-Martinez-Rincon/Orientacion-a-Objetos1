@@ -1,6 +1,5 @@
 # Busqueda de Metodos en Java
-
-
+- [Pagina anterior](/OO1/)
 - [Method Lookup](#method-lookup)
 - [Method Lookup con herencia](#method-lookup-con-herencia)
 - [Sobre escribír metodos (overriding)](#sobre-escribír-metodos)

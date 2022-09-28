@@ -1,4 +1,6 @@
 # Interfaces en Java y UML
+- [Pagina anterior](/OO1/)
+
 - Tipo = Conjunto de firmas de operaciones/metodos (nombre, tipos de argumentos, tipo de resultado)
 - Decimos que un objeto "es de un tipo" su ofrece el conjunto de operaciones definidas por el tipo.
 - Con esto en mente:

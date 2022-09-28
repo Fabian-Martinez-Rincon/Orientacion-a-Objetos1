@@ -1,5 +1,7 @@
 ## Condiciones de aprobacion
 
+- [Pagina anterior](/OO1/)
+
 Aprobar el parcial en cualquiera de las tres fechas
 
 - 5/11 Primer parcial

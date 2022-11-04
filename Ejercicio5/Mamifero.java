@@ -8,7 +8,7 @@ public class Mamifero {
 	public Mamifero(String nombre){
 		this.identificador=nombre;
 	}
-	public Mamifero(){
+	public Mamifero(){ //Creo que este constructor es al pedo
 	}
 	
 	public String getIdentificador(){

@@ -102,6 +102,57 @@ rta : La respuesta correcta es: Si encuentra el método m() correspondiente en s
 
 ---
 
+Sabiendo que la expresión System.out.println("algo") imprime un string por la salida estándar, y dado el siguiente diseño, seleccione la afirmación correcta de la lista:
+
+<img src="https://user-images.githubusercontent.com/55964635/222826650-7767882b-c3e4-4710-ba75-e7d2e1b49e17.png">
+
+Seleccione una:
+
+- **`a)` La expresión (new B()).actionOne() imprime "b" por la salida estándar.**
+- `b)` La expresión (new B()).actionOne() imprime "b" y luego "a" por la salida estándar. 
+- `c)` La expresión (new B()).actionOne() imprime "a" y luego "b" por la salida estándar. 
+- `d)` La expresión (new B()).actionOne() imprime "a" por la salida estándar. 
+
+rta: La respuesta correcta es: La expresión (new B()).actionOne() imprime "b" por la salida estándar.
+
+---
+
+Sabiendo que la expresión System.out.println("algo") imprime un string por la salida estándar, y dado el siguiente diseño, seleccione la afirmación correcta de la lista:
+
+<img src="https://user-images.githubusercontent.com/55964635/222827651-453eb36d-57b2-4573-b8db-2dd606b76d9e.png">
+
+Seleccione una:
+
+- `a)` La expresión (new B()).actionTwo() imprime "a" por la salida estándar. 
+- **`b)` La expresión (new B()).actionTwo() imprime "b" por la salida estándar.**
+- `c)` La expresión (new B()).actionTwo() imprime "a" y luego "b" por la salida estándar. 
+- `d)` La expresión (new B()).actionTwo() imprime "b" y luego "a" por la salida estándar. 
+
+rta : La respuesta correcta es: La expresión (new B()).actionTwo() imprime "b" por la salida estándar.
+
+---
+
+<img src="https://user-images.githubusercontent.com/55964635/222828223-15dde2fd-05d8-45e9-b342-293a8b6b5ace.png">
+
+Supongamos que tenemos una clase `A`, con sub-clases `B`, `C` y `D`. En todas ellas tenemos una implementación del método `m()`.
+
+Supongamos que tenemos también la clase `X` con una variable de instancia `i` de tipo `A`.
+
+Supongamos que como respuesta a un mensaje enviado a una instancia de `X` se ejecuta el método de `mx()`
+
+Cuando se ejecuta la expresión `i.m()` en dicho método:
+
+Seleccione una:
+
+- `a)` El objeto recepto x decide que método debe ejecutarse chequeando los tipos correspondientes
+- `b)` Implicará que se ejecute el método m() de la clase A
+- **`c)` Implicará que se ejecute el método m() correspondiente a la clase a la que pertenece el objeto actualmente apuntado por la variable  i**
+
+Rta : La respuesta correcta es: Implicará que se ejecute el método m() correspondiente a la clase a la que pertenece el objeto actualmente apuntado por la variable i
+
+---
+
+
 <div align="center">
 
 ## 3️⃣ Tercer cuestionario de Promoción

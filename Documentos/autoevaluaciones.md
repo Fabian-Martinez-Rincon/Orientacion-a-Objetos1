@@ -152,6 +152,20 @@ Rta : La respuesta correcta es: Implicará que se ejecute el método m() corresp
 
 ---
 
+Sabiendo que la expresión System.out.println("algo") imprime un string por la salida estándar, y dado el siguiente diseño, seleccione la afirmación correcta de la lista:
+
+<img src="https://user-images.githubusercontent.com/55964635/222828954-a8fb9c25-69b4-4fc9-991c-478b54ddabbc.png">
+
+Seleccione una:
+
+- `a)` La expresión (new B()).actionOne() imprime "b" por la salida estándar.
+- **`b)` La expresión (new B()).actionOne() imprime "b" y luego "a" por la salida estándar.**
+- `c)` La expresión (new B()).actionOne() imprime "a" por la salida estándar. 
+- `d)` La expresión (new B()).actionOne() imprime "a" y luego "b" por la salida estándar. 
+
+rta: La respuesta correcta es: La expresión (new B()).actionOne() imprime "b" y luego "a" por la salida estándar.
+
+---
 
 <div align="center">
 

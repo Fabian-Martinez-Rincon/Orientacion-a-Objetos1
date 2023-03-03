@@ -8,7 +8,7 @@
 <h1 align="center"> ☕ Orientación a Objetos 1</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/A5ffIYwJoEpVcMOYiO/giphy.gif"/>
+  <img src="https://media.giphy.com/media/SrM826tgscTMzJpNFg/giphy.gif"/>
  </div>
 
 ---

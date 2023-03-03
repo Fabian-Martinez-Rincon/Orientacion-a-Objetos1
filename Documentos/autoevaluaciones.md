@@ -5,15 +5,15 @@
  </div>
 
 ## Indice
-- [1️⃣ Primer cuestionario de Promoción](#primer-cuestionario-de-promoción)
-- [2️⃣ Segundo cuestionario de Promoción](#segundo-cuestionario-de-promoción)
-- [3️⃣ Tercer cuestionario de Promoción](#tercer-cuestionario-de-promoción)
-- [4️⃣ Cuarto cuestionario de Promoción](#cuarto-cuestionario-de-promoción)
-- [5️⃣ Quinto cuestionario de Promoción](#quinto-cuestionario-de-promoción)
+- [1️⃣ Primer cuestionario de Promoción](#1️-primer-cuestionario-de-promoción)
+- [2️⃣ Segundo cuestionario de Promoción](#-segundo-cuestionario-de-promoción)
+- [3️⃣ Tercer cuestionario de Promoción](#-tercer-cuestionario-de-promoción)
+- [4️⃣ Cuarto cuestionario de Promoción](#-cuarto-cuestionario-de-promoción)
+- [5️⃣ Quinto cuestionario de Promoción](#-quinto-cuestionario-de-promoción)
 
 <div align="center">
 
-### 1️⃣ Primer cuestionario de Promoción
+## 1️⃣ Primer cuestionario de Promoción
 
 </div>
 
@@ -80,24 +80,24 @@ rta : La respuesta correcta es: No hay un objeto más importante que otros. El c
 
 <div align="center">
 
-### 2️⃣ Segundo cuestionario de Promoción
+## 2️⃣ Segundo cuestionario de Promoción
 
 </div>
 
 <div align="center">
 
-### 3️⃣ Tercer cuestionario de Promoción
+## 3️⃣ Tercer cuestionario de Promoción
 
 </div>
 
 <div align="center">
 
-### 4️⃣ Cuarto cuestionario de Promoción
+## 4️⃣ Cuarto cuestionario de Promoción
 
 </div>
 
 <div align="center">
 
-### 5️⃣ Quinto cuestionario de Promoción
+## 5️⃣ Quinto cuestionario de Promoción
 
 </div>

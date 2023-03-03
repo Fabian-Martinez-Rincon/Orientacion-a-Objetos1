@@ -1,4 +1,4 @@
-<h1 align="center"> ☕ Preguntas Autoevaluaciones</h1>
+<h1 align="center"> 📝 Preguntas Autoevaluaciones</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/555LNFtAGCaTC0tffa/giphy.gif"/>

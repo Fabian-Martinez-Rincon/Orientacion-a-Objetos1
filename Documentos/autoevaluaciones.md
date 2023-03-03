@@ -4,12 +4,16 @@
   <img src="https://media.giphy.com/media/555LNFtAGCaTC0tffa/giphy.gif"/>
  </div>
 
-## Indice
+---
+
+## 📕 Indice
 - [1️⃣ Primer cuestionario de Promoción](#1️-primer-cuestionario-de-promoción)
 - [2️⃣ Segundo cuestionario de Promoción](#-segundo-cuestionario-de-promoción)
 - [3️⃣ Tercer cuestionario de Promoción](#-tercer-cuestionario-de-promoción)
 - [4️⃣ Cuarto cuestionario de Promoción](#-cuarto-cuestionario-de-promoción)
-- [5️⃣ Quinto cuestionario de Promoción](#-quinto-cuestionario-de-promoción)
+- [5️⃣ Quinto cuestionario de Promoción](#5️⃣-quinto-cuestionario-de-promoción)
+
+---
 
 <div align="center">
 
@@ -78,11 +82,25 @@ Seleccione una:
 
 rta : La respuesta correcta es: No hay un objeto más importante que otros. El comienzo de una aplicación depende del flujo de control, de decisiones del desarrollador, del tipo de interacción, etc
 
+---
+
 <div align="center">
 
 ## 2️⃣ Segundo cuestionario de Promoción
 
 </div>
+
+Cuando un objeto o recibe un mensaje m()
+
+Seleccione una:
+
+- `a)` En función del tipo del objeto o se decide que hacer
+- **`b)` Si encuentra el método m() correspondiente en su clase, lo ejecuta**
+- `c)` Decide que método ejecutar chequeando los que tienen nombres iguales en la jerarquía
+
+rta : La respuesta correcta es: Si encuentra el método m() correspondiente en su clase, lo ejecuta
+
+---
 
 <div align="center">
 

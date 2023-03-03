@@ -173,6 +173,74 @@ rta: La respuesta correcta es: La expresión (new B()).actionOne() imprime "b" y
 
 </div>
 
+---
+
+Seleccione la afirmación correcta
+
+Seleccione una:
+
+- `a)` Es importante diseñar bien el programa y chequearlo entre pares para evitar escribir tests de unidad.
+- `b)` Es importante testear ni bien se termina de escribir el programa, y con tanta cobertura como sea posible.
+- **`c)` Es importante testear temprano, y tanto como sea el riesgo del artefacto a testear**
+- `d)` Es importante testear todos los métodos hasta alcanzar una cobertura mayor al 80% del código.
+
+rta: La respuesta correcta es: Es importante testear temprano, y tanto como sea el riesgo del artefacto a testear
+
+---
+
+Seleccione la afirmación correcta
+
+Seleccione una:
+
+- **`a)` Para iterar una colección con un iterador, le envío el mensaje iterator() sin importar la clase de colección con la que trato.**
+- `b)` Solo las colecciones indexadas (ArrayList, Vector, etc.) entienden el mensaje iterator() que permite recorrerlas.
+- `c)` El mensaje iterator() espera como parámetro la clase de iterador a utilizar, que dependen del tipo de colección que estamos iterando.
+- `d)` Para iterar una colección con un iterador, si es indexada (List) le envio el mensaje listIterator() y si es un conjunto (Set) le envío el mensaje setIterator()
+
+rta : La respuesta correcta es: Para iterar una colección con un iterador, le envío el mensaje iterator() sin importar la clase de colección con la que trato.
+
+---
+
+Seleccione la afirmación correcta
+
+Seleccione una:
+
+- `a)` Para filtrar una colección en Java, le envío en mensaje stream() con una expresión lambda como parámetro.
+- `b)` Para filtrar una colección en Java, es recomendable utilizar un iterador y una colección adicional en la que se acumula el resultado.
+- `c)` Para filtrar una colección en Java, utilizo la librería de Pipes and Filters que ofrecen los iteradores.
+- **`d)` Para filtrar una colección en Java, es recomendable utilizar el protocolo de streams.**
+
+rta : La respuesta correcta es: Para filtrar una colección en Java, es recomendable utilizar el protocolo de streams.
+
+
+---
+
+Seleccione la afirmación correcta
+
+Seleccione una:
+
+- **`a)` Para escribir tests de particiones equivalentes identifico particiones, y elijo valores representativos dentro y fuera de cada partición para usarlos en los tests.**
+- `b)` Para escribir tests de particiones equivalentes, identifico todos los valores posibles y los separo en particiones de tamaño equivalente para usarlas en mis tests.
+- `c)` Para escribir tests de particiones equivalentes debo asegurarme de incluir en todas las particiones al valor null, al mínimo, y al máximo. 
+- `d)` Para escribir tests de particiones equivalentes identifico particiones, y elijo tantos valores de test de cada partición como complejidad tenga la misma (más compleja, más valores).
+
+rta : La respuesta correcta es: Para escribir tests de particiones equivalentes identifico particiones, y elijo valores representativos dentro y fuera de cada partición para usarlos en los tests.
+
+---
+
+Seleccione la afirmación correcta
+
+Seleccione una:
+
+- **`a)` En Java, es recomendable que todos los objetos en una colección compartan un tipo.**
+- `b)` En java, las colecciones solo admiten como contenido instancias de clases que implementan interfaces.
+- `c)` En Java, solo es posible agregar a una colección instancias de una misma clase, o de clases que comparten alguna superclase.
+- `d)` En Java, es recomendable que todos los objetos en una colección sean de la misma clase.
+
+rta : La respuesta correcta es: En Java, es recomendable que todos los objetos en una colección compartan un tipo.
+---
+
+
 <div align="center">
 
 ## 4️⃣ Cuarto cuestionario de Promoción

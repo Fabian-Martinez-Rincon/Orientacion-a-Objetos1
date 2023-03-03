@@ -7,10 +7,10 @@
 ---
 
 ## 📕 Indice
-- [1️⃣ Primer cuestionario de Promoción](#1️-primer-cuestionario-de-promoción)
-- [2️⃣ Segundo cuestionario de Promoción](#-segundo-cuestionario-de-promoción)
-- [3️⃣ Tercer cuestionario de Promoción](#-tercer-cuestionario-de-promoción)
-- [4️⃣ Cuarto cuestionario de Promoción](#-cuarto-cuestionario-de-promoción)
+- [1️⃣ Primer cuestionario de Promoción](#1️⃣-primer-cuestionario-de-promoción)
+- [2️⃣ Segundo cuestionario de Promoción](#2️⃣-segundo-cuestionario-de-promoción)
+- [3️⃣ Tercer cuestionario de Promoción](#3️⃣-tercer-cuestionario-de-promoción)
+- [4️⃣ Cuarto cuestionario de Promoción](#4️⃣-cuarto-cuestionario-de-promoción)
 - [5️⃣ Quinto cuestionario de Promoción](#5️⃣-quinto-cuestionario-de-promoción)
 
 ---

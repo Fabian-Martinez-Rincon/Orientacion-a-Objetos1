@@ -323,3 +323,74 @@ La respuesta correcta es: representar el dominio del problema en la etapa de An�
 ## 5️⃣ Quinto cuestionario de Promoción
 
 </div>
+
+---
+
+Seleccione la afirmación correcta
+
+Seleccione una:
+
+- **`a)` ECMAScript es un lenguaje dinámico, en el que no se indica explícitamente el tipo de las variables.**
+- `b)` ECMAScript es un lenguaje fuertemente tipado, en el que se declara el tipo de cada variable y parámetro, utilizando clases.
+- `c)` ECMAScript es un lenguaje fuertemente tipado, en el que se declara el tipo de cada variable y parámetro, utilizando interfaces.
+- `d)` ECMAScript puede utilizarse tanto como un lenguaje dinámico, en el que no es necesario indicar explícitamente el tipo de las variables o como un lenguaje fuertemente tipado. 
+
+Retroalimentación
+La respuesta correcta es: ECMAScript es un lenguaje dinámico, en el que no se indica explícitamente el tipo de las variables.
+
+---
+
+Seleccione la afirmación correcta:
+
+Seleccione una:
+
+- `a)` Smalltalk es un lenguaje fuertemente tipado, en el que se declara el tipo de cada variable y parámetro, utilizando interfaces.
+- `b)` Smalltalk puede utilizarse tanto como un lenguaje dinámico, en el que no es necesario indicar explícitamente el tipo de las variables o como un lenguaje fuertemente tipado.
+- `c)` Smalltalk es un lenguaje fuertemente tipado, en el que se declara el tipo de cada variable y parámetro, utilizando clases.
+- **`d)` Smalltalk es un lenguaje dinámico, en el que no se indica explícitamente el tipo de las variables.**
+
+Retroalimentación: 
+La respuesta correcta es: Smalltalk es un lenguaje dinámico, en el que no se indica explícitamente el tipo de las variables.
+
+---
+
+Seleccione la afirmación correcta
+
+Seleccione una:
+
+- `a)` Las clases de Smalltalk son objetos especiales, que solo entienden mensajes predefinidos para crear instancias. No es posible extender una clase para que entienda otros mensajes. 
+- **`b)` En Smalltalk las clases también son objetos, tienen sus propios atributos y métodos. El new, por ejemplo, es un mensaje de clase.**
+- `c)` En Smalltalk, no existen las clases. El lenguaje se basa en prototipos que se clonan y especializan. 
+- `d)` En Smalltalk, al igual que en java, tenemos métodos estáticos que se definen en las clases y se invocan directamente.
+
+Retroalimentación
+La respuesta correcta es: En Smalltalk las clases también son objetos, tienen sus propios atributos y métodos. El new, por ejemplo, es un mensaje de clase.
+
+---
+
+Seleccione la afirmación correcta
+
+Seleccione una:
+
+- `a)` En ECMAScript, cada objeto hereda comportamiento de su prototipo. El estado no se hereda.
+- `b)` En ECMAScript, cada objeto hereda estado de su prototipo. El comportamiento no se hereda.
+- `c)` Al no ser basado en clases sino en prototipos, ECMAScript no implementa el concepto de herencia.
+- **`d)` En ECMAScript, cada objeto hereda comportamiento y estado de su prototipo.**
+
+Retroalimentación : 
+La respuesta correcta es: En ECMAScript, cada objeto hereda comportamiento y estado de su prototipo.
+
+---
+
+Seleccione la afirmación correcta
+
+Seleccione una:
+
+- `a)` ECMAScript es un lenguaje basado en clases si se lo usa en el navegador, y basado en prototipos si se lo usa en el servidor. 
+- `b)` Al igual que Java y Smalltalk, que son lenguajes orientados a objetos basados en clases, ECMAScript es también basado en clases.
+- `c)` ECMAScript es un lenguaje basado en clases si se lo usa en el servidor, y basado en prototipos si se lo usa en el navegador. 
+- **`d)` A diferencia de Java y Smalltalk, que son lenguajes orientados a objetos basados en clases, ECMAScript es basado en prototipos.**
+
+Retroalimentación : La respuesta correcta es: A diferencia de Java y Smalltalk, que son lenguajes orientados a objetos basados en clases, ECMAScript es basado en prototipos.
+
+---

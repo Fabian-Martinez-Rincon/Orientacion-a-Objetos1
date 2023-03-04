@@ -238,6 +238,7 @@ Seleccione una:
 - `d)` En Java, es recomendable que todos los objetos en una colección sean de la misma clase.
 
 rta : La respuesta correcta es: En Java, es recomendable que todos los objetos en una colección compartan un tipo.
+
 ---
 
 
@@ -246,6 +247,76 @@ rta : La respuesta correcta es: En Java, es recomendable que todos los objetos e
 ## 4️⃣ Cuarto cuestionario de Promoción
 
 </div>
+
+Un buen Diseño OO debe cumplir, entre otras, con las Heurísticas:
+
+Seleccione una:
+
+- `a)` Bajo Acoplamiento y baja Cohesión.
+- `b)` Alto Acoplamiento y alta Cohesión.
+- `c)` Alto Acoplamiento y baja Cohesión.
+- **`d)` Bajo Acoplamiento y alta Cohesión.**
+
+Retroalimentación: 
+La respuesta correcta es: Bajo Acoplamiento y alta Cohesión
+
+---
+
+En los Contratos de Operaciones, las poscondiciones:
+
+Seleccione una:
+
+- `a)` describen el estado del sistema antes de ejecutarse la operación, utilizando conceptos del modelo conceptual o del Dominio
+- **`b)` describen el estado y cambios del sistema después de ejecutarse la operación, utilizando conceptos del modelo conceptual o del Dominio**
+- `c)` muestran cómo se ejecutan las acciones dentro de la operación
+- `d)` muestran el estado del Sistema durante la ejecución de la operación
+
+Retroalimentación: 
+La respuesta correcta es: describen el estado y cambios del sistema después de ejecutarse la operación, utilizando conceptos del modelo conceptual o del Dominio
+
+---
+
+En Reuso de código (Herencia Vs. Composición):
+
+Seleccione una:
+
+- `a)` Cuando la estructura de la nueva subclase es como la de la superclase, se aconseja usar herencia, no composición. El comportamiento heredado que no sirva, puede anularse o redefinirse.
+- `b)` El uso de herencia entre objetos genera más bajo acoplamiento que el uso de composición
+- `c)` El uso de composición entre objetos genera más alto acoplamiento que el uso de herencia
+- **`d)` El reuso por composición, permite usar al objeto a través de su protocolo, sin necesidad de tener que conocer su implementación**
+
+Retroalimentación: 
+La respuesta correcta es: El reuso por composición, permite usar al objeto a través de su protocolo, sin necesidad de tener que conocer su implementación
+
+---
+
+En UML, la relación de conocimiento entre objetos o instancias de clases:
+
+Seleccione una:
+
+- `a)` se modela con una asociación hacia el/los objetos que se conocen, agregando solamente la multiplicidad.
+- `b)` se representa como un atributo que identifica al/los objetos que se conocen
+- `c)` debe ser siempre bidireccional, es decir, navegable hacia las dos clases
+- **`d)` se modela con una asociación hacia el/los objetos que se conocen, agregando en el final de la asociación nombre (rol) y multiplicidad.**
+
+Retroalimentación: 
+La respuesta correcta es: se modela con una asociación hacia el/los objetos que se conocen, agregando en el final de la asociación nombre (rol) y multiplicidad.
+
+---
+
+El Modelo Conceptual o del Dominio es útil para:
+
+Seleccione una:
+
+- `a)` representar la solución del Sistema OO, mostrando la vista estática del Diseño final.
+- **`b)` representar el dominio del problema en la etapa de Análisis**
+- `c)` representar las interacciones entre los objetos candidatos del Sistema
+- `d)` mostrar el comportamiento (métodos) de las clases candidatas.
+
+Retroalimentación: 
+La respuesta correcta es: representar el dominio del problema en la etapa de Análisis
+
+
 
 <div align="center">
 

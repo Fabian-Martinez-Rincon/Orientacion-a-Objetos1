@@ -14,6 +14,27 @@
 ---
 
 - [📝 Todas las autoEvaluaciones](/Documentos/autoevaluaciones.md)
+- **Ejercicios**
+  - [Ejercicio 1 WallPost](/Documentos/Ejercicio1.md)
+  - [Ejercicio 2 Balanza Electrónica](/Documentos/Ejercicio2.md)
+  - [Ejercicio 3 Presupuestos y 3 Bis: Balanza mejorada](/Documentos/Ejercicio3.md)
+  - [Ejercicio 4 Figuras y cuerpos](/Documentos/Ejercicio4.md)
+  - [Ejercicio 5 Genealogía salvaje](/Documentos/Ejercicio5.md)
+  - [Ejercicio 6 Red de Alumbrado](/Documentos/Ejercicio6.md)
+  - [Ejercicio 7 Method lookup con Empleados](/Documentos/Ejercicio7.md)
+  - [Ejercicio 8 Distribuidora Eléctrica](/Documentos/Ejercicio8.md)
+  - [Ejercicio 9 Cuenta con ganchos](/Documentos/Ejercicio9.md)
+  - [Ejercicio 10 Job Scheduler](/Documentos/Ejercicio10.md)
+  - [Ejercicio 11 El Inversor](/Documentos/Ejercicio11.md)
+  - [Ejercicio 12 Volumen y superficie de sólidos](/Documentos/Ejercicio12.md)
+  - [Ejercicio 13 Cliente de correo con adjuntos](/Documentos/Ejercicio13.md)
+  - [Ejercicio 14 Intervalo de tiempo](/Documentos/Ejercicio14.md)
+  - [Ejercicio 15 Alquiler de propiedades](/Documentos/Ejercicio15.md)
+  - [Ejercicio 16 Políticas de cancelación](/Documentos/Ejercicio16.md)
+  - [Ejercicio 17 Facturación de llamadas](/Documentos/Ejercicio17.md)
+  - [Ejercicio 18 Liquidación de haberes](/Documentos/Ejercicio18.md)
+  - [Ejercicio 19 Mercado de Objetos](/Documentos/Ejercicio19.md)
+  - [Ejercicio 20 Farolas con focos](/Documentos/Ejercicio20.md)
 
 
 

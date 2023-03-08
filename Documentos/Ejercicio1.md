@@ -15,6 +15,12 @@
 
 ---
 
+
+
+
+
+
+
 ##  Primera parte
 Se está construyendo una red social como Facebook o Twitter. Debemos definir una clase Wallpost con los siguientes atributos: un texto que se desea publicar, cantidad de likes (“me gusta”) y una marca que indica si es destacado o no. La clase es subclase de Object.
 

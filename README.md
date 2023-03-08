@@ -11,7 +11,8 @@
   <img src="https://media.giphy.com/media/SrM826tgscTMzJpNFg/giphy.gif"/>
  </div>
 
----
+
+<img src="https://i.imgur.com/tywHxXf.png" height="20" width="100%">
 
 - [📝 Todas las autoEvaluaciones](/Documentos/autoevaluaciones.md)
 - **Ejercicios**
@@ -36,7 +37,12 @@
   - [Ejercicio 19 Mercado de Objetos](/Documentos/Ejercicio19.md)
   - [Ejercicio 20 Farolas con focos](/Documentos/Ejercicio20.md)
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
+
+<img src="https://i.imgur.com/j3ASePU.png" height="10" width="100%">
 
 
 

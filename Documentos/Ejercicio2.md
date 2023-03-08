@@ -6,6 +6,14 @@
 
 ---
 
+<div align="center">
+
+[Siguiente](/Documentos/Ejercicio3.md)<br>
+[Anterior](/Documentos/Ejercicio1.md)
+ </div>
+
+---
+
 En el taller de programación ud programó una balanza electrónica. Volveremos a programarla, con algún requerimiento adicional. 
 
 En términos generales, la Balanza electrónica recibe productos (uno a uno), y calcula dos totales: peso total y precio total. Además la balanza puede poner en cero todos sus valores. 

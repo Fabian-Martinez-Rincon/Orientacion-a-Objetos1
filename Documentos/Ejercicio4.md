@@ -6,6 +6,14 @@
 
 ---
 
+<div align="center">
+
+[Siguiente](/Documentos/Ejercicio5.md)<br>
+[Anterior](/Documentos/Ejercicio3.md)
+ </div>
+
+---
+
 **Figuras en 2D**
 
 Defina un nuevo proyecto figurasYCuerpos

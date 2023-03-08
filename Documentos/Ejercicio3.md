@@ -6,6 +6,14 @@
 
 ---
 
+<div align="center">
+
+[Siguiente](/Documentos/Ejercicio4.md)<br>
+[Anterior](/Documentos/Ejercicio2.md)
+ </div>
+
+---
+
  Defina el proyecto Ejercicio 3 - Presupuesto y dentro de él Implemente las clases que se observan en el siguiente diagrama. Ambas son subclases de Object. Preste atención a los siguientes aspectos:
 
 <img width ='35%' src='https://user-images.githubusercontent.com/55964635/223016099-bbb42255-fb19-4623-a4ad-8199c38f1bb6.png'>

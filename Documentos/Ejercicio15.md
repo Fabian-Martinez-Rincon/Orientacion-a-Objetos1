@@ -12,10 +12,7 @@
 
 ---
 
-```
-Nota: este ejercicio es del estilo de los que encontrarán 
-en la evaluación parcial
-```
+**Nota: este ejercicio es del estilo de los que encontrarán en la evaluación parcial**
 
 Necesitamos que usted implemente OOBnB, un sistema para publicar propiedades en alquiler, y para alquilarlas. Identifique objetos y responsabilidades. El sistema ofrece la siguiente funcionalidad:
 

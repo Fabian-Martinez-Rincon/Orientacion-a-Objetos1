@@ -37,23 +37,7 @@
 - [1️⃣9️⃣ Ejercicio 19 Mercado de Objetos](/Documentos/Ejercicio19.md)
 - [2️⃣0️⃣ Ejercicio 20 Farolas con focos](/Documentos/Ejercicio20.md)
 
-
-
-
-
-
-
-
-
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
-
-### Buscar line gif en goolge :D
-
-- [Linea 1](https://imgur.com/gallery/c1n8sZc)
-- [Linea 2](https://imgur.com/gallery/F81FlkE)
-- [Linea 3](https://imgur.com/gallery/I1VpMnc)
-- [Linea 4](https://imgur.com/gallery/lyJErkk)
-- [Linea 5](https://imgur.com/gallery/opmdOYK)
 
 
 

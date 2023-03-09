@@ -48,4 +48,21 @@ Decida usted si es necesario hacer cambios en las figuras 2D.
 
 <img width='35%' src="https://user-images.githubusercontent.com/55964635/223018768-8c50ee12-56be-44cc-baa8-2699095876fd.png">
 
+Fórmulas útiles:
+
+- El área o superficie exterior de un cuerpo es: 
+- 2* área-cara-basal + perímetro-cara-basal * altura-del-cuerpo
+- El volumen de un cuerpo es: área-cara-basal * altura
+
+Más info interesante: A la figura que da forma al cuerpo (el círculo o el cuadrado en nuestro caso) se le llama directriz. Y a la recta en la que se mueve se llama generatriz. En wikipedia (Cilindro) se puede aprender un poco más al respecto.
+
+**Pruebas automatizadas**
+
+Siguiendo los ejemplos de ejercicios anteriores, ejecute las pruebas automatizadas provistas. En este caso, se trata de tres clases que debe agregar dentro del paquete tests. Haga las modificaciones necesarias para que el proyecto no tenga errores.  Si algún test no pasa, consulte al ayudante. 
+
+**Discuta y reflexione**
+
+Discuta con el ayudante sus elecciones de variables de instancia y métodos adicionales. ¿Es necesario todo lo que definió?
+
+
 ---

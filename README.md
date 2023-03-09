@@ -16,6 +16,7 @@
 
 
 - [📝 Todas las autoEvaluaciones](/Documentos/autoevaluaciones.md)
+- [➰ Streams](/Documentos/streams.md)
 - [1️⃣ Ejercicio 1 WallPost](/Documentos/Ejercicio1.md)
 - [2️⃣ Ejercicio 2 Balanza Electrónica](/Documentos/Ejercicio2.md)
 - [3️⃣ Ejercicio 3 Presupuestos y 3 Bis: Balanza mejorada](/Documentos/Ejercicio3.md)

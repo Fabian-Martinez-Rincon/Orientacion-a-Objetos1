@@ -8,36 +8,34 @@
 <h1 align="center"> ☕ Orientación a Objetos 1</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SrM826tgscTMzJpNFg/giphy.gif"/>
+  <img src="https://media.giphy.com/media/10I54Pr7nbGrAs/giphy.gif"/>
  </div>
 
-<h3 align='center'>
-<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxnMjNvcXFvM3cyOGY1MXIwanNlbHo3cjBnY243MjBoYmpseXppcyZjdD1z/JwOUH7TbHFHg3LnX18/giphy.gif" height="25" />  Indice  <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxnMjNvcXFvM3cyOGY1MXIwanNlbHo3cjBnY243MjBoYmpseXppcyZjdD1z/JwOUH7TbHFHg3LnX18/giphy.gif" height="25" />
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%"> 
 
-</h3>
+
 
 - [📝 Todas las autoEvaluaciones](/Documentos/autoevaluaciones.md)
-- **Ejercicios**
-  - [Ejercicio 1 WallPost](/Documentos/Ejercicio1.md)
-  - [Ejercicio 2 Balanza Electrónica](/Documentos/Ejercicio2.md)
-  - [Ejercicio 3 Presupuestos y 3 Bis: Balanza mejorada](/Documentos/Ejercicio3.md)
-  - [Ejercicio 4 Figuras y cuerpos](/Documentos/Ejercicio4.md)
-  - [Ejercicio 5 Genealogía salvaje](/Documentos/Ejercicio5.md)
-  - [Ejercicio 6 Red de Alumbrado](/Documentos/Ejercicio6.md)
-  - [Ejercicio 7 Method lookup con Empleados](/Documentos/Ejercicio7.md)
-  - [Ejercicio 8 Distribuidora Eléctrica](/Documentos/Ejercicio8.md)
-  - [Ejercicio 9 Cuenta con ganchos](/Documentos/Ejercicio9.md)
-  - [Ejercicio 10 Job Scheduler](/Documentos/Ejercicio10.md)
-  - [Ejercicio 11 El Inversor](/Documentos/Ejercicio11.md)
-  - [Ejercicio 12 Volumen y superficie de sólidos](/Documentos/Ejercicio12.md)
-  - [Ejercicio 13 Cliente de correo con adjuntos](/Documentos/Ejercicio13.md)
-  - [Ejercicio 14 Intervalo de tiempo](/Documentos/Ejercicio14.md)
-  - [Ejercicio 15 Alquiler de propiedades](/Documentos/Ejercicio15.md)
-  - [Ejercicio 16 Políticas de cancelación](/Documentos/Ejercicio16.md)
-  - [Ejercicio 17 Facturación de llamadas](/Documentos/Ejercicio17.md)
-  - [Ejercicio 18 Liquidación de haberes](/Documentos/Ejercicio18.md)
-  - [Ejercicio 19 Mercado de Objetos](/Documentos/Ejercicio19.md)
-  - [Ejercicio 20 Farolas con focos](/Documentos/Ejercicio20.md)
+- [1️⃣ Ejercicio 1 WallPost](/Documentos/Ejercicio1.md)
+- [2️⃣ Ejercicio 2 Balanza Electrónica](/Documentos/Ejercicio2.md)
+- [3️⃣ Ejercicio 3 Presupuestos y 3 Bis: Balanza mejorada](/Documentos/Ejercicio3.md)
+- [4️⃣ Ejercicio 4 Figuras y cuerpos](/Documentos/Ejercicio4.md)
+- [5️⃣ Ejercicio 5 Genealogía salvaje](/Documentos/Ejercicio5.md)
+- [6️⃣ Ejercicio 6 Red de Alumbrado](/Documentos/Ejercicio6.md)
+- [7️⃣ Ejercicio 7 Method lookup con Empleados](/Documentos/Ejercicio7.md)
+- [8️⃣ Ejercicio 8 Distribuidora Eléctrica](/Documentos/Ejercicio8.md)
+- [9️⃣ Ejercicio 9 Cuenta con ganchos](/Documentos/Ejercicio9.md)
+- [1️⃣0️⃣ Ejercicio 10 Job Scheduler](/Documentos/Ejercicio10.md)
+- [1️⃣1️⃣ Ejercicio 11 El Inversor](/Documentos/Ejercicio11.md)
+- [1️⃣2️⃣ Ejercicio 12 Volumen y superficie de sólidos](/Documentos/Ejercicio12.md)
+- [1️⃣3️⃣ Ejercicio 13 Cliente de correo con adjuntos](/Documentos/Ejercicio13.md)
+- [1️⃣4️⃣ Ejercicio 14 Intervalo de tiempo](/Documentos/Ejercicio14.md)
+- [1️⃣5️⃣ Ejercicio 15 Alquiler de propiedades](/Documentos/Ejercicio15.md)
+- [1️⃣6️⃣ Ejercicio 16 Políticas de cancelación](/Documentos/Ejercicio16.md)
+- [1️⃣7️⃣ Ejercicio 17 Facturación de llamadas](/Documentos/Ejercicio17.md)
+- [1️⃣8️⃣ Ejercicio 18 Liquidación de haberes](/Documentos/Ejercicio18.md)
+- [1️⃣9️⃣ Ejercicio 19 Mercado de Objetos](/Documentos/Ejercicio19.md)
+- [2️⃣0️⃣ Ejercicio 20 Farolas con focos](/Documentos/Ejercicio20.md)
 
 
 

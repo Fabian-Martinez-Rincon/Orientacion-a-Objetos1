@@ -1,10 +1,5 @@
 <h1 align="center"> 📝 Ejercicio 1: WallPost</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif"/>
- </div>
-
-
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
 <div align="center">
@@ -15,6 +10,13 @@
 </div>
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif"/>
+ </div>
+
+
+
 
 ##  Primera parte
 Se está construyendo una red social como Facebook o Twitter. Debemos definir una clase Wallpost con los siguientes atributos: un texto que se desea publicar, cantidad de likes (“me gusta”) y una marca que indica si es destacado o no. La clase es subclase de Object.

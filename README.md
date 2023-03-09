@@ -11,8 +11,10 @@
   <img src="https://media.giphy.com/media/SrM826tgscTMzJpNFg/giphy.gif"/>
  </div>
 
-<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+<h3 align='center'>
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxnMjNvcXFvM3cyOGY1MXIwanNlbHo3cjBnY243MjBoYmpseXppcyZjdD1z/JwOUH7TbHFHg3LnX18/giphy.gif" height="25" />  Indice  <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxnMjNvcXFvM3cyOGY1MXIwanNlbHo3cjBnY243MjBoYmpseXppcyZjdD1z/JwOUH7TbHFHg3LnX18/giphy.gif" height="25" />
 
+</h3>
 
 - [📝 Todas las autoEvaluaciones](/Documentos/autoevaluaciones.md)
 - **Ejercicios**

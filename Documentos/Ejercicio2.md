@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/VbJeIn7jzpiTS9PczB/giphy.gif"/>
  </div>
 
----
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 [Anterior](/Documentos/Ejercicio1.md)
  </div>
 
----
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
 En el taller de programación ud programó una balanza electrónica. Volveremos a programarla, con algún requerimiento adicional. 
 

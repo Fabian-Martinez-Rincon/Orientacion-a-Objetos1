@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[Siguiente](/Documentos/Ejercicio2.md)<br>
-[Anterior](/Documentos/Ejercicio20.md)
+[Siguiente](/Practica/Ejercicio%202%20Balanza%20Electr%C3%B3nica/)<br>
+[Anterior](/Practica/Ejercicio%2020%20Farolas%20con%20Focos/)
 
 </div>
 

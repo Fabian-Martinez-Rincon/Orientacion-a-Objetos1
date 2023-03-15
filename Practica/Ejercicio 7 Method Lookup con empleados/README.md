@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[Siguiente](/Documentos/Ejercicio8.md)<br>
-[Anterior](/Documentos/Ejercicio6.md)
+[Siguiente](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/)<br>
+[Anterior](/Practica/Ejercicio%206%20Red%20de%20alumbrado/)
  </div>
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">

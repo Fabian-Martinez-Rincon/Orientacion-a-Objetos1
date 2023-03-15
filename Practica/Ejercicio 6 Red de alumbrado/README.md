@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[Siguiente](/Documentos/Ejercicio7.md)<br>
-[Anterior](/Documentos/Ejercicio5.md)
+[Siguiente](/Practica/Ejercicio%207%20Method%20Lookup%20con%20empleados/)<br>
+[Anterior](/Practica/Ejercicio%205%20Genealog%C3%ADa%20salvaje/)
  </div>
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">

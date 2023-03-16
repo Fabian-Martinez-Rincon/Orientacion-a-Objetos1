@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[Siguiente](/Documentos/Ejercicio12.md)<br>
-[Anterior](/Documentos/Ejercicio10.md)
+[Siguiente](/Practica/Ejercicio%2012%20Volumen%20y%20superficie%20con%20s%C3%B3lidos/)<br>
+[Anterior](/Practica/Ejercicio%2010%20Job%20Scheduler/)
  </div>
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">

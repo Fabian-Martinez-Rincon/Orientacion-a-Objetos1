@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[Siguiente](/Documentos/Ejercicio14.md)<br>
-[Anterior](/Documentos/Ejercicio12.md)
+[Siguiente](/Practica/Ejercicio%2014%20Intervalo%20de%20tiempo/)<br>
+[Anterior](/Practica/Ejercicio%2012%20Volumen%20y%20superficie%20con%20s%C3%B3lidos/)
  </div>
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">

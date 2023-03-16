@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[Siguiente](/Documentos/Ejercicio16.md)<br>
-[Anterior](/Documentos/Ejercicio14.md)
+[Siguiente](/Practica/Ejercicio%2016%20Pol%C3%ADticas%20de%20cancelaci%C3%B3n/)<br>
+[Anterior](/Practica/Ejercicio%2014%20Intervalo%20de%20tiempo/)
  </div>
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">

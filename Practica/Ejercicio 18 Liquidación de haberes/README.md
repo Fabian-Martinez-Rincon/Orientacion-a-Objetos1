@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[Siguiente](/Documentos/Ejercicio19.md)<br>
-[Anterior](/Documentos/Ejercicio17.md)
+[Siguiente](/Practica/Ejercicio%2019%20Mercado%20de%20Objetos/)<br>
+[Anterior](/Practica/Ejercicio%2017%20Facturas%20de%20llamadas/)
  </div>
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">

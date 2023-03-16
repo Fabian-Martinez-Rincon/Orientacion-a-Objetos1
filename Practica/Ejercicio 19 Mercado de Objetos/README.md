@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[Siguiente](/Documentos/Ejercicio20.md)<br>
-[Anterior](/Documentos/Ejercicio18.md)
+[Siguiente](/Practica/Ejercicio%2020%20Farolas%20con%20Focos/)<br>
+[Anterior](/Practica/Ejercicio%2018%20Liquidaci%C3%B3n%20de%20haberes/)
  </div>
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">

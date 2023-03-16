@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[Siguiente](/Documentos/Ejercicio11.md)<br>
-[Anterior](/Documentos/Ejercicio9.md)
+[Siguiente](/Practica/Ejercicio%2011%20El%20Inversor/)<br>
+[Anterior](/Practica/Ejercicio%209%20Cuenta%20con%20ganchos/)
  </div>
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">

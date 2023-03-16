@@ -11,7 +11,7 @@
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-- [Objeto WallPost](/Practica/Ejercicio%201%20WallPost/Ejercicio-1-WallPost/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_1_WallPost/WallPost.java)
+- [Objeto WallPost](/Practica/Ejercicio%201%20WallPost/Ejercicio-1-WallPost/Documentos/ejercicio1-wallpost/src/main/java/ar/edu/unlp/oo1/ejercicio1/impl/WallPostImpl.java)
 - [Test](/Practica/Ejercicio%201%20WallPost/Ejercicio-1-WallPost/Documentos/ejercicio1-wallpost/src/test/java/ar/edu/unlp/oo1/ejercicio1/WallPostTest.java)
 
 ---

@@ -33,6 +33,16 @@ Utilice los tests provistos para confirmar que su implementación ofrece la func
 
 <h1 align="center"> 📝 Ejercicio 3 - Bis: Balanza mejorada</h1>
 
+---
+
+- [Balanza](/Practica/Ejercicio%203%20Presupuestos%20y%203%20Bis%20Balansa%20Mejorada/Ejercicio-3-Bis-Balansa-Mejorada/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_3_Bis_Balansa_Mejorada/Balanza.java)
+- [Producto](/Practica/Ejercicio%203%20Presupuestos%20y%203%20Bis%20Balansa%20Mejorada/Ejercicio-3-Bis-Balansa-Mejorada/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_3_Bis_Balansa_Mejorada/Producto.java)
+- [Ticket](/Practica/Ejercicio%203%20Presupuestos%20y%203%20Bis%20Balansa%20Mejorada/Ejercicio-3-Bis-Balansa-Mejorada/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_3_Bis_Balansa_Mejorada/Ticket.java)
+- [BalanzaTest](/Practica/Ejercicio%203%20Presupuestos%20y%203%20Bis%20Balansa%20Mejorada/Ejercicio-3-Bis-Balansa-Mejorada/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_3_Bis_Balansa_Mejorada/BalanzaTest.java)
+- [ProductoTest](/Practica/Ejercicio%203%20Presupuestos%20y%203%20Bis%20Balansa%20Mejorada/Ejercicio-3-Bis-Balansa-Mejorada/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_3_Bis_Balansa_Mejorada/ProductoTest.java)
+
+---
+
 Realizando el ejercicio de los presupuestos, aprendimos que un objeto puede tener una colección de otros objetos. Con esto en mente, ahora queremos mejorar la balanza implementada anteriormente.
 
 **Tarea 1**

@@ -1,4 +1,4 @@
-<h1 align="center"> 📝 Ejercicio 4: Figuras y cuerpos</h1>
+<h1 align="center"> 📝 Ejercicio 4: Figuras y Cuerpos</h1>
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -10,7 +10,16 @@
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
+- [Circulo](/Practica/Ejercicio%204%20Figuras%20y%20cuerpos/Ejercicio-4-Figuras-y-Cuerpos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_4_Figuras_y_Cuerpos/Circulo.java)
+- [Cuadrado](/Practica/Ejercicio%204%20Figuras%20y%20cuerpos/Ejercicio-4-Figuras-y-Cuerpos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_4_Figuras_y_Cuerpos/Cuadrado.java)
+- [Cuerpo3D](/Practica/Ejercicio%204%20Figuras%20y%20cuerpos/Ejercicio-4-Figuras-y-Cuerpos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_4_Figuras_y_Cuerpos/Cuerpo3D.java)
+- [Figura](/Practica/Ejercicio%204%20Figuras%20y%20cuerpos/Ejercicio-4-Figuras-y-Cuerpos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_4_Figuras_y_Cuerpos/Figura.java)
+- [CuerpoTest](/Practica/Ejercicio%204%20Figuras%20y%20cuerpos/Ejercicio-4-Figuras-y-Cuerpos/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_4_Figuras_y_Cuerpos/CuerpoTest.java)
+- [TestCirculo](/Practica/Ejercicio%204%20Figuras%20y%20cuerpos/Ejercicio-4-Figuras-y-Cuerpos/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_4_Figuras_y_Cuerpos/TestCirculo.java)
+- [TestCuadrado](/Practica/Ejercicio%204%20Figuras%20y%20cuerpos/Ejercicio-4-Figuras-y-Cuerpos/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_4_Figuras_y_Cuerpos/TestCuadrado.java)
+
 ---
+
 
 **Figuras en 2D**
 

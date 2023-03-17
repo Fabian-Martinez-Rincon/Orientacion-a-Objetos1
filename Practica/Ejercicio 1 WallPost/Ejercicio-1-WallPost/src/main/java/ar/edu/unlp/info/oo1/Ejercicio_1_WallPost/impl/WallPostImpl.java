@@ -1,4 +1,4 @@
-package ar.edu.unlp.oo1.ejercicio1.impl;
+package ar.edu.unlp.info.oo1.Ejercicio_1_WallPost.impl;
 
 import ar.edu.unlp.oo1.ejercicio1.WallPost;
 

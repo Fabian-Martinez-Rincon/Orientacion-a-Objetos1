@@ -17,8 +17,8 @@ No tengo idea del porque me salen las cruces azules, el test esta todo correcto 
 - [Balanza](/Practica/Ejercicio%202%20Balanza%20Electr%C3%B3nica/Ejercicio-2-Balanza-Electronica/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_2_Balanza_Electronica/Balanza.java)
 - [Producto](/Practica/Ejercicio%202%20Balanza%20Electr%C3%B3nica/Ejercicio-2-Balanza-Electronica/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_2_Balanza_Electronica/Producto.java)
 - [Ticket](/Practica/Ejercicio%202%20Balanza%20Electr%C3%B3nica/Ejercicio-2-Balanza-Electronica/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_2_Balanza_Electronica/Ticket.java)
-- [BalanzaTest]()
-- [ProductoTest]()
+- [BalanzaTest](/Practica/Ejercicio%202%20Balanza%20Electr%C3%B3nica/Ejercicio-2-Balanza-Electronica/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_2_Balanza_Electronica/BalanzaTest.java)
+- [ProductoTest](/Practica/Ejercicio%202%20Balanza%20Electr%C3%B3nica/Ejercicio-2-Balanza-Electronica/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_2_Balanza_Electronica/ProductoTest.java)
 
 ---
 

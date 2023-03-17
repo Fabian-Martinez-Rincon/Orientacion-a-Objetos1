@@ -14,6 +14,8 @@ No tengo idea del porque me salen las cruces azules, el test esta todo correcto 
 
 ![image](https://user-images.githubusercontent.com/55964635/225507031-db09b66e-7268-4c14-aa2a-9382e82f17fb.png)
 
+---
+
 - [Balanza](/Practica/Ejercicio%202%20Balanza%20Electr%C3%B3nica/Ejercicio-2-Balanza-Electronica/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_2_Balanza_Electronica/Balanza.java)
 - [Producto](/Practica/Ejercicio%202%20Balanza%20Electr%C3%B3nica/Ejercicio-2-Balanza-Electronica/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_2_Balanza_Electronica/Producto.java)
 - [Ticket](/Practica/Ejercicio%202%20Balanza%20Electr%C3%B3nica/Ejercicio-2-Balanza-Electronica/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_2_Balanza_Electronica/Ticket.java)

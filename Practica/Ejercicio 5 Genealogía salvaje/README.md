@@ -10,7 +10,12 @@
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
+En este ejercicio tengo problemas en el metodo de los abuelos y todavia me falta el metodo de los ancestros
 
+---
+
+- [Mamifero](/Practica/Ejercicio%205%20Genealog%C3%ADa%20salvaje/Ejercicio-5-Genealogia-salvaje/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_5_Genealogia_salvaje/Mamifero.java)
+- [MamiferoTest](/Practica/Ejercicio%205%20Genealog%C3%ADa%20salvaje/Ejercicio-5-Genealogia-salvaje/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_5_Genealogia_salvaje/MamiferoTest.java)
 
 ---
 

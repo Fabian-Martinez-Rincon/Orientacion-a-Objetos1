@@ -34,3 +34,5 @@ Analice cada uno de los siguientes fragmentos de código y resuelva las tareas i
 - Responda qué valores tendrán las variables aportesDeAlan y sueldoBasicoDeAlan.
 - `aportesDeAlan` 2850.0
 - `sueldoBasicoDeAlan` 67850.0
+
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">

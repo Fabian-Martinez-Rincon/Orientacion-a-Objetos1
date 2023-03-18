@@ -29,7 +29,7 @@
 
 Utilice los tests provistos para confirmar que su implementación ofrece la funcionalidad esperada. En este caso, se trata de dos clases,  ItemTest y PresupuestoTest, que debe agregar dentro del paquete tests. Haga las modificaciones necesarias para que el proyecto no tenga errores. Siéntase libre de explorar las clases de test para intentar entender qué es lo que hacen.  
 
----
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
 <h1 align="center"> 📝 Ejercicio 3 - Bis: Balanza mejorada</h1>
 
@@ -71,3 +71,6 @@ getProductos():List<Producto> .
 **Tarea 3**
 
 Después de hacer estos cambios, ¿siguen pasando los tests? ¿Está bien que sea así?
+
+
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">

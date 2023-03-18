@@ -14,7 +14,10 @@ public class Mamifero {
 	
 	public Mamifero(String nombre) {
 		this.identificador = nombre;
-
+		this.madre = new Mamifero();
+		this.madre = null;
+		this.padre = new Mamifero();
+		this.padre = null;
 	}
 	
 	public String getIdentificador() {
@@ -46,7 +49,6 @@ public class Mamifero {
 	}
 	
 	public void setPadre(Mamifero padre) {
-		this.padre = new Mamifero();
 		this.padre = padre;
 	}
 	
@@ -55,23 +57,35 @@ public class Mamifero {
 	}
 	
 	public void setMadre(Mamifero madre) {
-		this.madre = new Mamifero();
 		this.madre = madre;
 	}
 	
-	public Mamifero getAbueloMaterno() {
-		return this.madre.getPadre();
+	public Mamifero getAbueloMaterno(){
+		return (this.madre != null) ? this.madre.getPadre() : null;
 	}
-	
 	public Mamifero getAbuelaMaterna() {
-		return this.madre.getMadre();
+		return (this.madre != null) ? this.madre.getMadre() : null;
 	}
 	
-	public Mamifero getAbueloPaterno() {
-		return this.padre.getPadre();
+	public Mamifero getAbueloPaterno(){
+		return (this.padre != null) ? this.padre.getPadre() : null;
+	}
+	public Mamifero getAbuelaPaterna(){
+		return (this.padre != null) ? this.padre.getMadre() : null;
 	}
 	
-	public Mamifero getAbuelaPaterna() {
-		return this.padre.getMadre();
+	public boolean tieneComoAncestroA(Mamifero unMamifero){
+		boolean encontro=false;
+		if ((this.getPadre() == unMamifero)||(this.getMadre() == unMamifero)){
+			encontro=true;
+		}else{
+			if(this.padre != null){
+				encontro=this.getPadre().tieneComoAncestroA(unMamifero);
+			}
+			if((this.madre != null)&(!encontro)){
+				encontro=this.getMadre().tieneComoAncestroA(unMamifero);
+			}
+		}
+		return encontro;
 	}
 }

@@ -10,7 +10,10 @@
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
+---
 
+- [Farola](/Practica/Ejercicio%206%20Red%20de%20alumbrado/Ejercicio-6-Red-de-alumbrado/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_6_Red_de_alumbrado/Farola.java)
+- [FarolaTest](/Practica/Ejercicio%206%20Red%20de%20alumbrado/Ejercicio-6-Red-de-alumbrado/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_6_Red_de_alumbrado/FarolaTest.java)
 
 ---
 

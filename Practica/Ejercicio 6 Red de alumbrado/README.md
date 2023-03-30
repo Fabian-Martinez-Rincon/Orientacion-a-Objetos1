@@ -67,3 +67,9 @@ public boolean isOn()
 3. Utilice los tests provistos por la cátedra para probar las implementaciones del punto 3.
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+### UML
+
+<img src= 'https://user-images.githubusercontent.com/55964635/228714899-0bba96bf-5080-4f2c-b4b1-afb037f49916.jpg' width="75%">
+
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">

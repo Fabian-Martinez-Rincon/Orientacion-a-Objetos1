@@ -36,3 +36,9 @@ En el diagrama se puede apreciar el nombre/identificador de cada uno de ellos (p
 Haga las modificaciones necesarias para que el proyecto no tenga errores.  Si algún test no pasa, consulte al ayudante. 
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+### UML
+
+<img src= 'https://user-images.githubusercontent.com/55964635/228714889-17b402c3-4d3f-4e1f-ba27-bb762175a42b.jpg' width="75%">
+
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">

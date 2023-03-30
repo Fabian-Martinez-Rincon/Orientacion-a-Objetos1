@@ -98,3 +98,10 @@ Una vez que su implementación pasa los tests de la primera parte puede utilizar
 Para visualizar la ventana, sobre el proyecto, usar la opción del menú contextual Run As >> Java Application. La ventana permite cambiar el texto del post, incrementar la cantidad de likes, etc. El botón Print to Console imprimirá los datos del post en la consola. 
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+### UML
+
+<img src= 'https://user-images.githubusercontent.com/55964635/228714344-e78abcc4-0836-4747-a15c-6cc431f43556.jpg' width="40%">
+
+
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">

@@ -72,5 +72,11 @@ getProductos():List<Producto> .
 
 Después de hacer estos cambios, ¿siguen pasando los tests? ¿Está bien que sea así?
 
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+### UML
+
+<img src= 'https://user-images.githubusercontent.com/55964635/228714498-31b4f053-ab3a-4891-ba75-3cecb18b4dd1.jpg' width="100%">
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+

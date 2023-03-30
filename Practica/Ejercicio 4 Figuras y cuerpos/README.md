@@ -69,5 +69,10 @@ Siguiendo los ejemplos de ejercicios anteriores, ejecute las pruebas automatizad
 
 Discuta con el ayudante sus elecciones de variables de instancia y métodos adicionales. ¿Es necesario todo lo que definió?
 
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+### UML
+
+<img src= 'https://user-images.githubusercontent.com/55964635/228714700-40d365ec-a774-4187-b069-e981a17d4c98.jpg' width="100%">
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">

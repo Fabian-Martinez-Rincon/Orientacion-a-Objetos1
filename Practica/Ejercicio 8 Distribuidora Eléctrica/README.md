@@ -14,6 +14,12 @@
 - [Usuario](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/Ejercicio-8-Distribuidora-Electrica/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_8_Distribuidora_Electrica/Usuario.java)
 - [Factura](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/Ejercicio-8-Distribuidora-Electrica/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_8_Distribuidora_Electrica/Factura.java)
 - [Consumo](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/Ejercicio-8-Distribuidora-Electrica/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_8_Distribuidora_Electrica/Consumo.java)
+- [DistribuidoraTest](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/Ejercicio-8-Distribuidora-Electrica/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_8_Distribuidora_Electrica/DistribuidoraTest.java)
+- [UsuarioTest](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/Ejercicio-8-Distribuidora-Electrica/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_8_Distribuidora_Electrica/UsuarioTest.java)
+- [FacturaTest](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/Ejercicio-8-Distribuidora-Electrica/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_8_Distribuidora_Electrica/FacturaTest.java)
+
+
+
 
 ---
 

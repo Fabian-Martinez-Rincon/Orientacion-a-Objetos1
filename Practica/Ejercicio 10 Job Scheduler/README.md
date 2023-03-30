@@ -10,6 +10,13 @@
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
+- [Fifo](/Practica/Ejercicio%2010%20Job%20Scheduler/Ejercicio-10-Job-Scheduler/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_10_Job_Scheduler/Fifo.java)
+- [HighestPriority](/Practica/Ejercicio%2010%20Job%20Scheduler/Ejercicio-10-Job-Scheduler/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_10_Job_Scheduler/HighestPriority.java)
+- [JobDescription](/Practica/Ejercicio%2010%20Job%20Scheduler/Ejercicio-10-Job-Scheduler/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_10_Job_Scheduler/JobDescription.java)
+- [JobScheduler](/Practica/Ejercicio%2010%20Job%20Scheduler/Ejercicio-10-Job-Scheduler/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_10_Job_Scheduler/JobScheduler.java)
+- [Lifo](/Practica/Ejercicio%2010%20Job%20Scheduler/Ejercicio-10-Job-Scheduler/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_10_Job_Scheduler/Lifo.java)
+- [MostEffort](/Practica/Ejercicio%2010%20Job%20Scheduler/Ejercicio-10-Job-Scheduler/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_10_Job_Scheduler/MostEffort.java)
+- [Strategy](/Practica/Ejercicio%2010%20Job%20Scheduler/Ejercicio-10-Job-Scheduler/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_10_Job_Scheduler/Strategy.java)
 
 ---
 

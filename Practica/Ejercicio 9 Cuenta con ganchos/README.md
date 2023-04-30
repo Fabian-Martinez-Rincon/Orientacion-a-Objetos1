@@ -13,6 +13,8 @@
 - [CajaDeAhorro](/Practica/Ejercicio%209%20Cuenta%20con%20ganchos/Ejercicio-9-Cuenta-con-ganchos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_9_Cuenta_con_ganchos/CajaDeAhorro.java)
 - [Cuenta](/Practica/Ejercicio%209%20Cuenta%20con%20ganchos/Ejercicio-9-Cuenta-con-ganchos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_9_Cuenta_con_ganchos/Cuenta.java)
 - [CuentaCorriente](/Practica/Ejercicio%209%20Cuenta%20con%20ganchos/Ejercicio-9-Cuenta-con-ganchos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_9_Cuenta_con_ganchos/CuentaCorriente.java)
+- [CajaDeAhorroTest](/Practica/Ejercicio%209%20Cuenta%20con%20ganchos/Ejercicio-9-Cuenta-con-ganchos/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_9_Cuenta_con_ganchos/CajaDeAhorroTest.java)
+- [CuentaCorrienteTest](/Practica/Ejercicio%209%20Cuenta%20con%20ganchos/Ejercicio-9-Cuenta-con-ganchos/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_9_Cuenta_con_ganchos//CuentaCorrienteTest.java)
 
 ---
 
@@ -35,3 +37,5 @@ Observe con detenimiento el diseño que se muestra en el siguiente diagrama. La 
 - ¿Cómo se declara en Java un método abstracto? ¿Es obligatorio implementarlo? ¿Qué dice el compilador de Java si una subclase no implementa un método abstracto que hereda?
 
 **Tarea C:** Escriba los tests de unidad que crea necesarios para validar que su implementación funciona adecuadamente.
+
+![](/Documentos/Imagenes/Ejercicio9.jpg)

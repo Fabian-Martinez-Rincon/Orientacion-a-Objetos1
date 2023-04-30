@@ -12,7 +12,7 @@ public class CajaDeAhorroTest {
 		ca = new CajaDeAhorro();
 		ca.depositar(10);
 	}
-	/*
+	
 	@Test
 	public void testDepositar() {
 		assertEquals(9.8 ,ca.getSaldo());
@@ -33,5 +33,5 @@ public class CajaDeAhorroTest {
 		assertEquals(false ,ccTransferir.puedeExtraer(11));
 		
 		
-	}*/
+	}
 }

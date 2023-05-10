@@ -19,6 +19,7 @@ Parcial el dia 14-6 a ponerse las pilas pa
 
 - [📝 Todas las autoEvaluaciones](/Documentos/autoevaluaciones.md)
 - [➰ Streams](/Documentos/streams.md)
+- [Practica Completa](/Documentos/Practica.md)
 - [1️⃣ Ejercicio 1 WallPost](/Practica/Ejercicio%201%20WallPost/)
 - [2️⃣ Ejercicio 2 Balanza Electrónica](/Practica/Ejercicio%202%20Balanza%20Electr%C3%B3nica/)
 - [3️⃣ Ejercicio 3 Presupuestos y 3 Bis: Balanza mejorada](/Practica/Ejercicio%203%20Presupuestos%20y%203%20Bis%20Balansa%20Mejorada/)

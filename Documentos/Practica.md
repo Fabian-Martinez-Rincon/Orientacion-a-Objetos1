@@ -217,4 +217,293 @@ Después de hacer estos cambios, ¿siguen pasando los tests? ¿Está bien que se
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
+<h1 align="center"> 📝 Ejercicio 4: Figuras y Cuerpos</h1>
 
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+
+
+- [Circulo](/Practica/Ejercicio%204%20Figuras%20y%20cuerpos/Ejercicio-4-Figuras-y-Cuerpos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_4_Figuras_y_Cuerpos/Circulo.java)
+- [Cuadrado](/Practica/Ejercicio%204%20Figuras%20y%20cuerpos/Ejercicio-4-Figuras-y-Cuerpos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_4_Figuras_y_Cuerpos/Cuadrado.java)
+- [Cuerpo3D](/Practica/Ejercicio%204%20Figuras%20y%20cuerpos/Ejercicio-4-Figuras-y-Cuerpos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_4_Figuras_y_Cuerpos/Cuerpo3D.java)
+- [Figura](/Practica/Ejercicio%204%20Figuras%20y%20cuerpos/Ejercicio-4-Figuras-y-Cuerpos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_4_Figuras_y_Cuerpos/Figura.java)
+- [CuerpoTest](/Practica/Ejercicio%204%20Figuras%20y%20cuerpos/Ejercicio-4-Figuras-y-Cuerpos/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_4_Figuras_y_Cuerpos/CuerpoTest.java)
+- [TestCirculo](/Practica/Ejercicio%204%20Figuras%20y%20cuerpos/Ejercicio-4-Figuras-y-Cuerpos/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_4_Figuras_y_Cuerpos/TestCirculo.java)
+- [TestCuadrado](/Practica/Ejercicio%204%20Figuras%20y%20cuerpos/Ejercicio-4-Figuras-y-Cuerpos/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_4_Figuras_y_Cuerpos/TestCuadrado.java)
+
+---
+
+
+**Figuras en 2D**
+
+Defina un nuevo proyecto figurasYCuerpos
+
+En Taller de Programación definió clases para representar figuras geométricas. Retomaremos ese ejercicio para trabajar con Cuadrados y Círculos.
+
+El siguiente diagrama de clases documenta los mensajes que estos objetos deben entender. Decida usted qué variables de instancia son necesarias. Ambas clases son subclases de Object. Puede agregar mensajes adicionales si lo cree necesario.
+
+<img width='57%' src="https://user-images.githubusercontent.com/55964635/223018313-bf81f0da-f947-4c83-a6d2-6597f7d8dce6.png">
+
+
+Fórmulas y mensajes útiles:
+
+- Diámetro del círculo: radio * 2
+- Perímetro del círculo: π * diámetro
+- Área del círculo: π * radio 2
+- π se obtiene enviando el mensaje #pi a la clase Float (Float pi) (ahora Math.PI) 
+
+**Cuerpos en 3D**
+
+Ahora que tenemos Círculos y Cuadrados, podemos usarlos para construir cuerpos (en 3D) y calcular su volumen y superficie o área exterior. Vamos a pensar a un cilindro como "un cuerpo que tiene una figura 2D como cara basal y que tiene una altura (vea la siguiente imagen)" . Si en el lugar de la figura2D tuviera un círculo, se formaría el siguiente cuerpo 3D.
+
+<img width='50%' src="https://user-images.githubusercontent.com/55964635/223018520-e498ed26-ecab-4f5c-a64d-23106c84644f.png">
+
+Si reemplazamos la cara basal por un rectángulo, tendremos un prisma (una caja de zapatos). 
+
+El siguiente diagrama de clases documenta los mensajes que entiende un cuerpo3D. Decida usted qué variables de instancia son necesarias. Cuerpo3D es subclase de Object.
+
+Decida usted si es necesario hacer cambios en las figuras 2D.
+
+<img width='35%' src="https://user-images.githubusercontent.com/55964635/223018768-8c50ee12-56be-44cc-baa8-2699095876fd.png">
+
+Fórmulas útiles:
+
+- El área o superficie exterior de un cuerpo es: 
+- 2* área-cara-basal + perímetro-cara-basal * altura-del-cuerpo
+- El volumen de un cuerpo es: área-cara-basal * altura
+
+Más info interesante: A la figura que da forma al cuerpo (el círculo o el cuadrado en nuestro caso) se le llama directriz. Y a la recta en la que se mueve se llama generatriz. En wikipedia (Cilindro) se puede aprender un poco más al respecto.
+
+**Pruebas automatizadas**
+
+Siguiendo los ejemplos de ejercicios anteriores, ejecute las pruebas automatizadas provistas. En este caso, se trata de tres clases que debe agregar dentro del paquete tests. Haga las modificaciones necesarias para que el proyecto no tenga errores.  Si algún test no pasa, consulte al ayudante. 
+
+**Discuta y reflexione**
+
+Discuta con el ayudante sus elecciones de variables de instancia y métodos adicionales. ¿Es necesario todo lo que definió?
+
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+### UML
+
+<img src= 'https://user-images.githubusercontent.com/55964635/228714700-40d365ec-a774-4187-b069-e981a17d4c98.jpg' width="100%">
+
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+<h1 align="center"> 📝 Ejercicio 5: Genealogía salvaje</h1>
+
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+- [Mamifero](/Practica/Ejercicio%205%20Genealog%C3%ADa%20salvaje/Ejercicio-5-Genealogia-salvaje/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_5_Genealogia_salvaje/Mamifero.java)
+- [MamiferoTest](/Practica/Ejercicio%205%20Genealog%C3%ADa%20salvaje/Ejercicio-5-Genealogia-salvaje/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_5_Genealogia_salvaje/MamiferoTest.java)
+
+---
+
+En una reserva de vida salvaje (como la estación de cría ECAS, en el camino Centenario), los cuidadores quieren llevar registro detallado de los animales que cuidan y sus familias. Para ello nos han pedido ayuda. Debemos: 
+
+a) Modelar en objetos y programar la clase Mamífero (como subclase de Object). El siguiente diagrama de clases (incompleto) nos da una idea de los mensajes que un mamífero entiende. *Deje tieneComoAncestroA para el final y discuta su solución con el ayudante.*
+
+<img src= 'https://user-images.githubusercontent.com/55964635/224107160-5bb25af2-0d06-4465-a8be-7f615d36212a.png' height="290px">
+
+b) Complete el diagrama de clases para reflejar los atributos y relaciones requeridos. 
+
+c) Siguiendo los ejemplos de ejercicios anteriores, ejecute las pruebas automatizadas provistas. En este caso, se trata de una clase, MamiferoTest, que debe agregar dentro del paquete tests. En esta clase se trabaja con la familia mostrada en la siguiente figura. 
+
+![image](https://user-images.githubusercontent.com/55964635/224107787-7df35fe8-5130-4a08-9fe4-711b153d03a6.png)
+
+En el diagrama se puede apreciar el nombre/identificador de cada uno de ellos (por ejemplo Nala, Mufasa, Alexa, etc). 
+
+Haga las modificaciones necesarias para que el proyecto no tenga errores.  Si algún test no pasa, consulte al ayudante. 
+
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+### UML
+
+<img src= 'https://user-images.githubusercontent.com/55964635/228714889-17b402c3-4d3f-4e1f-ba27-bb762175a42b.jpg' width="75%">
+
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+<h1 align="center"> 📝 Ejercicio 6: Red de Alumbrado</h1>
+
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+
+- [Farola](/Practica/Ejercicio%206%20Red%20de%20alumbrado/Ejercicio-6-Red-de-alumbrado/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_6_Red_de_alumbrado/Farola.java)
+- [FarolaTest](/Practica/Ejercicio%206%20Red%20de%20alumbrado/Ejercicio-6-Red-de-alumbrado/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_6_Red_de_alumbrado/FarolaTest.java)
+
+---
+
+Imagine una red de alumbrado donde cada farola está conectada a una o varias vecinas formando un grafo conexo. Cada una de las farolas tiene un interruptor. Es suficiente con encender o apagar una farola cualquiera para que se enciendan o apaguen todas las demás. Sin embargo, si se intenta apagar una farola apagada (o si se intenta encender una farola encendida) no habrá ningún efecto, ya que no se propagará esta acción hacia las vecinas.
+
+La funcionalidad a proveer permite:
+
+- crear farolas (inicialmente están apagadas)
+- conectar farolas a tantas vecinas como uno quiera (las conexiones son bi-direccionales) 
+- encender una farola (y obtener el efecto antes descrito)
+- apagar una farola (y obtener el efecto antes descrito)
+
+**Tareas:**
+
+1. Realice el diagrama UML de clases de la solución al problema. 
+2. Implemente en Java, la clase Farola, como subclase de Object, con los siguientes métodos:
+
+```java
+/*
+* Crear una farola. Debe inicializarla como apagada
+*/
+public Farola ()
+/*
+* Crea la relación de vecinos entre las farolas. La relación de vecinos entre las farolas es recíproca, es decir el receptor del mensaje será vecino de otraFarola, al igual que otraFarola también se convertirá en vecina del receptor del mensaje
+*/
+public void pairWithNeighbor( Farola otraFarola )
+/*
+* Retorna sus farolas vecinas
+*/
+public List<Farola> getNeighbors ()
+
+
+/*
+* Si la farola no está encendida, la enciende y propaga la acción.
+*/
+public void turnOn()
+
+/*
+* Si la farola no está apagada, la apaga y propaga la acción.
+*/
+public void turnOff()
+
+/*
+* Retorna true si la farola está encendida.
+*/
+public boolean isOn()
+
+
+```
+
+3. Utilice los tests provistos por la cátedra para probar las implementaciones del punto 3.
+
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+### UML
+
+<img src= 'https://user-images.githubusercontent.com/55964635/228714899-0bba96bf-5080-4f2c-b4b1-afb037f49916.jpg' width="75%">
+
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+<h1 align="center"> 📝 Ejercicio 7: Method lookup con Empleados</h1>
+
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+Aca queria preguntar sobre la pregunta teorica
+
+- [Empleado](/Practica/Ejercicio%207%20Method%20Lookup%20con%20empleados/Ejercicio-7-Method-Lookup-con-empleados/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_7_Method_Lookup_con_empleados/Empleado.java)
+- [EmpleadoJerarquico](/Practica/Ejercicio%207%20Method%20Lookup%20con%20empleados/Ejercicio-7-Method-Lookup-con-empleados/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_7_Method_Lookup_con_empleados/EmpleadoJerarquico.java)
+- [Gerente](/Practica/Ejercicio%207%20Method%20Lookup%20con%20empleados/Ejercicio-7-Method-Lookup-con-empleados/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_7_Method_Lookup_con_empleados/Gerente.java)
+- [Main](/Practica/Ejercicio%207%20Method%20Lookup%20con%20empleados/Ejercicio-7-Method-Lookup-con-empleados/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_7_Method_Lookup_con_empleados/main.java)
+
+
+---
+
+Sea la jerarquía de Empleado como muestra la figura de la izquierda, cuya implementación de referencia se incluye en la tabla de la derecha.
+
+![image](https://user-images.githubusercontent.com/55964635/224112649-6c8e72f0-552c-4208-a520-30eb7c545072.png)
+
+Analice cada uno de los siguientes fragmentos de código y resuelva las tareas indicadas abajo:
+
+![image](https://user-images.githubusercontent.com/55964635/224112807-3647249a-6a42-4463-bf96-5b852e6d950b.png)
+
+**Tareas**
+
+- Liste los métodos que son ejecutados como resultado del envío del último mensaje (por ejemplo, método #aportes de la clase X, ...)
+- Responda qué valores tendrán las variables aportesDeAlan y sueldoBasicoDeAlan.
+- `aportesDeAlan` 2850.0
+- `sueldoBasicoDeAlan` 67850.0
+
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+<h1 align="center"> 📝 Ejercicio 8: Distribuidora Eléctrica</h1>
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+- [Distribuidora](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/Ejercicio-8-Distribuidora-Electrica/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_8_Distribuidora_Electrica/Distribuidora.java)
+- [Usuario](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/Ejercicio-8-Distribuidora-Electrica/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_8_Distribuidora_Electrica/Usuario.java)
+- [Factura](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/Ejercicio-8-Distribuidora-Electrica/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_8_Distribuidora_Electrica/Factura.java)
+- [Consumo](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/Ejercicio-8-Distribuidora-Electrica/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_8_Distribuidora_Electrica/Consumo.java)
+- [DistribuidoraTest](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/Ejercicio-8-Distribuidora-Electrica/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_8_Distribuidora_Electrica/DistribuidoraTest.java)
+- [UsuarioTest](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/Ejercicio-8-Distribuidora-Electrica/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_8_Distribuidora_Electrica/UsuarioTest.java)
+- [FacturaTest](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/Ejercicio-8-Distribuidora-Electrica/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_8_Distribuidora_Electrica/FacturaTest.java)
+
+
+
+
+---
+
+- Una distribuidora eléctrica desea un sistema para el registro de los consumos de sus usuarios y para la emisión de facturas de cobro.
+- El sistema permite registrar usuarios, para los cuales se indica nombre y dirección. Por simplificación, un usuario puede estar relacionado con un solo domicilio (para el que se registran los consumos).
+- El sistema permite registrar los consumos para los usuarios. Los consumos que se registran para los usuarios tienen dos componentes: el consumo de energía activa y el consumo de energía reactiva.
+- Una vez al mes, la empresa distribuidora realiza el proceso de facturación. Por cada usuario se emite una factura (el proceso completo retorna una colección).
+- Para emitir la factura de un cliente se tiene en cuenta su último consumo y se calcula su factor de potencia para determinar si hay alguna bonificación para aplicar. El costo del consumo se calcula multiplicando el consumo de energía activa por el precio del kwh (Kilowatt/hora) de la empresa. La energía reactiva no tiene costo para el usuario. Si el factor de potencia estimado (pfe) del último consumo del usuario es mayor a 0.8, el usuario es bonificado con el 10%.
+- El factor de potencia se calcula de acuerdo a la siguiente fórmula:
+
+
+![image](https://user-images.githubusercontent.com/55964635/224113217-65a882f4-d67b-4f2e-8c44-3bc1e59cac6e.png)
+
+- Además, la empresa está interesada en poder saber cuál fue el total de energía activa consumida por toda la red en el último periodo medido (es decir, teniendo en cuenta sólo la última medición de cada usuario). 
+
+- El siguiente diagrama de clases muestra el diseño para este problema. Agregue los métodos que considere necesarios.
+
+![image](https://user-images.githubusercontent.com/55964635/224113395-7117d942-825f-4b64-825d-e63ff84da8a4.png)
+
+**Tareas**
+ 
+Siguiendo el diseño que se muestra en el diagrama de clases, implemente la funcionalidad que se describe en el enunciado, en particular en lo referente a:
+
+- Establecer (setear) el precio del KWh de la empresa
+- Agregar usuarios
+- Agregar mediciones
+- Emitir facturas
+- Obtener el consumo total en KWh de la red para el último período
+ 
+En una clase de test, cree los test de unidad necesarios para poder evaluar:
+
+- Iniciar el sistema
+- Agregar un usuario
+- Agregar un consumo para ese usuario
+- Emitir las facturas
+- Calcular el consumo total de la red para el último período
+
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+<h1 align="center"> 📝 Ejercicio 9 : Cuenta con ganchos</h1>
+
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+
+
+- [CajaDeAhorro](/Practica/Ejercicio%209%20Cuenta%20con%20ganchos/Ejercicio-9-Cuenta-con-ganchos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_9_Cuenta_con_ganchos/CajaDeAhorro.java)
+- [Cuenta](/Practica/Ejercicio%209%20Cuenta%20con%20ganchos/Ejercicio-9-Cuenta-con-ganchos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_9_Cuenta_con_ganchos/Cuenta.java)
+- [CuentaCorriente](/Practica/Ejercicio%209%20Cuenta%20con%20ganchos/Ejercicio-9-Cuenta-con-ganchos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_9_Cuenta_con_ganchos/CuentaCorriente.java)
+- [CajaDeAhorroTest](/Practica/Ejercicio%209%20Cuenta%20con%20ganchos/Ejercicio-9-Cuenta-con-ganchos/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_9_Cuenta_con_ganchos/CajaDeAhorroTest.java)
+- [CuentaCorrienteTest](/Practica/Ejercicio%209%20Cuenta%20con%20ganchos/Ejercicio-9-Cuenta-con-ganchos/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_9_Cuenta_con_ganchos//CuentaCorrienteTest.java)
+
+---
+
+Observe con detenimiento el diseño que se muestra en el siguiente diagrama. La clase cuenta es abstracta. El método `puedeExtraer()` es abstracto. Las clases `CajaDeAhorro` y `CuentaCorriente` son concretas y están incompletas.
+
+![image](https://user-images.githubusercontent.com/55964635/224113806-58c95e30-15d6-46de-9483-124ff25f9c73.png)
+
+**Tarea A:** Complete la implementación de las clases CajaDeAhorro y CuentaCorriente para que se puedan efectuar depósitos, extracciones y transferencias teniendo en cuenta los siguientes criterios. 
+
+- Las **cajas de ahorro** solo pueden extraer y transferir cuando cuentan con fondos suficientes. 
+- Las extracciones, los depósitos y las transferencias desde cajas de ahorro tienen un costo adicional de 2% del monto en cuestión (téngalo en cuenta antes de permitir una extracción o transferencia desde caja de ahorro).
+- Las **cuentas corrientes** pueden extraer aún cuando el saldo de la cuenta sea insuficiente. Sin embargo, no deben superar cierto límite por debajo del saldo. Dicho límite se conoce como límite de descubierto (algo así como el máximo saldo negativo permitido). Ese límite es diferente para cada cuenta (lo negocia el cliente con la gente del banco). 
+- Cuando se abre una **cuenta corriente**, su límite descubierto es 0 (no olvide definir el constructor por default).
+
+**Tarea B:** Reflexione, charle con el ayudante y responda a las siguientes preguntas.
+- ¿Por qué cree que este ejercicio se llama "Cuenta con ganchos"? 
+- En las implementaciones de los métodos `extraer()` y `transferirACuenta()`  que se ven en el diagrama, ¿quién es `this`? ¿Puede decir de qué clase es this?
+- ¿Por qué decidimos que los métodos `puedeExtraer()` y `extraerSinControlar` tengan visibilidad "protegido"?
+- ¿Se puede transferir de una caja de ahorro a una cuenta corriente y viceversa? ¿por qué? ¡Pruébelo!
+- ¿Cómo se declara en Java un método abstracto? ¿Es obligatorio implementarlo? ¿Qué dice el compilador de Java si una subclase no implementa un método abstracto que hereda?
+
+**Tarea C:** Escriba los tests de unidad que crea necesarios para validar que su implementación funciona adecuadamente.
+
+![](/Documentos/Imagenes/Ejercicio9.jpg)

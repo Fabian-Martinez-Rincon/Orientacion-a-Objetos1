@@ -648,8 +648,12 @@ Cuando se quiere saber cuánto dinero representan las inversiones del inversor, 
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-
-
+- [ReporteDeConstruccion](/Practica/Ejercicio%2012%20Volumen%20y%20superficie%20con%20s%C3%B3lidos/Ejercicio-12-Volumen-y-superficie-con-solidos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_12_Volumen_y_superficie_con_solidos/ReporteDeConstruccion.java)
+- [Pieza](/Practica/Ejercicio%2012%20Volumen%20y%20superficie%20con%20s%C3%B3lidos/Ejercicio-12-Volumen-y-superficie-con-solidos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_12_Volumen_y_superficie_con_solidos/Pieza.java)
+- [Cilindro](/Practica/Ejercicio%2012%20Volumen%20y%20superficie%20con%20s%C3%B3lidos/Ejercicio-12-Volumen-y-superficie-con-solidos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_12_Volumen_y_superficie_con_solidos/Cilindro.java)
+- [Esfera](/Practica/Ejercicio%2012%20Volumen%20y%20superficie%20con%20s%C3%B3lidos/Ejercicio-12-Volumen-y-superficie-con-solidos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_12_Volumen_y_superficie_con_solidos/Esfera.java)
+- [PrismaRectangular](/Practica/Ejercicio%2012%20Volumen%20y%20superficie%20con%20s%C3%B3lidos/Ejercicio-12-Volumen-y-superficie-con-solidos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_12_Volumen_y_superficie_con_solidos/PrismaRectangular.java)
+- [PiezaTest](/Practica/Ejercicio%2012%20Volumen%20y%20superficie%20con%20s%C3%B3lidos/Ejercicio-12-Volumen-y-superficie-con-solidos/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_12_Volumen_y_superficie_con_solidos/PiezasTest.java)
 
 ---
 
@@ -690,6 +694,8 @@ Asegúrese de proveer tests de unidad para todo el comportamiento desarrollado.
 ***Observaciones adicionales***
 
 Probablemente note una similitud entre este ejercicio y el ejercicio de "Figuras y cuerpos” que hizo anteriormente. En ambos ejercicios usted podía construir cilindros y prismas rectangulares. Sin embargo las implementaciones varían. Discuta diferencias y similitudes con el ayudante.
+
+![](/Practica/Ejercicio%2012%20Volumen%20y%20superficie%20con%20s%C3%B3lidos/12.jpg)
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 

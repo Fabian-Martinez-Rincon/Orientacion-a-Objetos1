@@ -727,6 +727,21 @@ Para simplificar, asuma que el tamaño de un archivo es el largo de su nombre.
 - Implemente en Java de la funcionalidad requerida.
 - Implemente los tests (JUnit) que considere necesarios.
 
+```java
+public Email buscar(String texto) {
+  Email email=null;
+  for(Carpeta c : carpetas) {
+    for(Email e : c.getEmails()) {
+      if (e.getCuerpo().equals(texto) || e.getTitulo().equals(texto)) {
+        return e;
+      }
+    }
+  }
+  return ememail;
+}
+```
+
+![](/Practica/Ejercicio%2013%20Cliente%20con%20correo%20con%20adjuntos/13.jpg)
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 

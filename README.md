@@ -583,12 +583,21 @@ Utilice el código y los tests provistos por la cátedra y aplique lo aprendido 
 
 Sus cambios probablemente hagan que los tests dejen de funcionar. Corríjalos y mejórelos como sea necesario.
 
+![](/Practica/Ejercicio%2010%20Job%20Scheduler/Ejercicio10.jpg)
+
+El uml no representa el programa, pero es lo que se deberia hacer.
+
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
 <h1 align="center"> 📝 Ejercicio 11 - El Inversor</h1>
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
+- [Inversión](/Practica/Ejercicio%2011%20El%20Inversor/Ejercicio-11-El-Inversor/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_11_El_Inversor/Inversion.java)
+- [InversionEnAcciones](/Practica/Ejercicio%2011%20El%20Inversor/Ejercicio-11-El-Inversor/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_11_El_Inversor/InversionEnAcciones.java)
+- [Inversor](/Practica/Ejercicio%2011%20El%20Inversor/Ejercicio-11-El-Inversor/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_11_El_Inversor/Inversor.java)
+- [PlazoFijo](/Practica/Ejercicio%2011%20El%20Inversor/Ejercicio-11-El-Inversor/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_11_El_Inversor/PlazoFijo.java)
+- [InversorTest](/Practica/Ejercicio%2011%20El%20Inversor/Ejercicio-11-El-Inversor/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_11_El_Inversor/InversorTest.java)
 
 
 ---
@@ -630,6 +639,8 @@ Cuando se quiere saber cuánto dinero representan las inversiones del inversor, 
 
 - `2)` Construya un diagrama UML de clases para documentar su solución.
 - `3)` Implemente los tests (JUnit) que considere necesarios.
+
+![](/Practica/Ejercicio%2011%20El%20Inversor/11.jpg)
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 

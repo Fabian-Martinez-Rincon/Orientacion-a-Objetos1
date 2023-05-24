@@ -1,16 +1,13 @@
 package ar.edu.unlp.info.oo1.Ejercicio_10_Job_Scheduler;
 
-
 import java.util.ArrayList;
 import java.util.List;
 
-public class JobScheduler {
+public abstract class JobScheduler {
     protected List<JobDescription> jobs;
-    protected Strategy strategy;
      
     public JobScheduler () {
     	this.jobs = new ArrayList<>(); 
-    	this.strategy = new Fifo();
     }
     
     public void schedule(JobDescription job) {
@@ -23,21 +20,14 @@ public class JobScheduler {
     	}
     }
     
-    public Strategy getStrategy() {
-    	return this.strategy; 
-    }
     
     public List<JobDescription> getJobs(){
     	return jobs;
     }
     
-    public void setStrategy(Strategy aStrategy) {
-    	this.strategy = aStrategy; 
-    }
     
-    public JobDescription next() {
-      	return null;
-    }
+    public abstract JobDescription next();
+
+     
     
 }
-

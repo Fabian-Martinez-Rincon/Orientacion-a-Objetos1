@@ -703,7 +703,11 @@ Probablemente note una similitud entre este ejercicio y el ejercicio de "Figuras
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-
+- [ClienteDeCorreo](/Practica/Ejercicio%2013%20Cliente%20con%20correo%20con%20adjuntos/Ejercicio-13-Cliente-con-correo-con-adjuntos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_13_Cliente_con_correo_con_adjuntos/ClienteDeCorreo.java)
+- [Carpeta](/Practica/Ejercicio%2013%20Cliente%20con%20correo%20con%20adjuntos/Ejercicio-13-Cliente-con-correo-con-adjuntos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_13_Cliente_con_correo_con_adjuntos/Carpeta.java)
+- [Email](/Practica/Ejercicio%2013%20Cliente%20con%20correo%20con%20adjuntos/Ejercicio-13-Cliente-con-correo-con-adjuntos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_13_Cliente_con_correo_con_adjuntos/Email.java)
+- [Archivo](/Practica/Ejercicio%2013%20Cliente%20con%20correo%20con%20adjuntos/Ejercicio-13-Cliente-con-correo-con-adjuntos/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_13_Cliente_con_correo_con_adjuntos/Archivo.java)
+- [ClienteDeCorreoTest](/Practica/Ejercicio%2013%20Cliente%20con%20correo%20con%20adjuntos/Ejercicio-13-Cliente-con-correo-con-adjuntos/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_13_Cliente_con_correo_con_adjuntos/ClienteDeCorreoTest.java)
 
 ---
 

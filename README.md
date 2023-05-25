@@ -796,7 +796,7 @@ Asumiendo que implementó la clase DateLapse con dos variables de instancia “
 
 Los cambios en la estructura interna de un objeto sólo deben afectar a la implementación de sus métodos. Estos cambios deben ser transparentes para quien le envía mensajes, no debe notar ningún cambio y seguir usándolo de la misma forma. Por lo tanto, los tests que implementó en la tarea 2 deberían pasar sin problemas. 
 
-![](/Practica/Ejercicio%2014%20Intervalo%20de%20tiempo/14.jpg)
+![](/Practica/Ejercicio%2014%20Intervalo%20de%20tiempo/144.jpg)
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 

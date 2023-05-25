@@ -753,7 +753,8 @@ public Email buscar(String texto) {
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-
+- [DateLapse](/Practica/Ejercicio%2014%20Intervalo%20de%20tiempo/Ejercicio-14-Intervalo-de-tiempo/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_14_Intervalo_de_tiempo/DateLapse.java)
+- [DateLapseTest](/Practica/Ejercicio%2014%20Intervalo%20de%20tiempo/Ejercicio-14-Intervalo-de-tiempo/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_14_Intervalo_de_tiempo/DateLapseTest.java)
 
 ---
 
@@ -794,6 +795,8 @@ Escriba tests de unidad para asegurarse de que los métodos implementados funcio
 Asumiendo que implementó la clase DateLapse con dos variables de instancia “from” y “to”, realice otra implementación de la clase para que su representación sea a través de los atributos “from” y “sizeInDays” y coloquela en otro paquete. Es decir, debe basar su nueva implementación en estas variables de instancia solamente. Intente definir una interfaz java para que ambas soluciones la implementen. 
 
 Los cambios en la estructura interna de un objeto sólo deben afectar a la implementación de sus métodos. Estos cambios deben ser transparentes para quien le envía mensajes, no debe notar ningún cambio y seguir usándolo de la misma forma. Por lo tanto, los tests que implementó en la tarea 2 deberían pasar sin problemas. 
+
+![](/Practica/Ejercicio%2014%20Intervalo%20de%20tiempo/14.jpg)
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 

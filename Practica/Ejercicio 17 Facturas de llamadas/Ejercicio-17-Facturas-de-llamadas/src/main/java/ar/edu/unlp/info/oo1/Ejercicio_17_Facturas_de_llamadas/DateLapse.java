@@ -1,4 +1,4 @@
-package ar.edu.unlp.info.oo1.Ejercicio_14_Intervalo_de_tiempo;
+package ar.edu.unlp.info.oo1.Ejercicio_17_Facturas_de_llamadas;
 
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;

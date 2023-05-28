@@ -13,13 +13,23 @@
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%"> 
 
+### Importante para el parcial
+
+
+
+
+
+---
+
+
 - [Instalar Eclipse](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2022-12/R/eclipse-inst-jre-win64.exe)
 
 Parcial el dia 14-6 a ponerse las pilas pa
 
 - [📝 Todas las autoEvaluaciones](/Documentos/autoevaluaciones.md)
-- [➰ Streams](/Documentos/streams.md)
 
+
+---
 
 ## Indice
 

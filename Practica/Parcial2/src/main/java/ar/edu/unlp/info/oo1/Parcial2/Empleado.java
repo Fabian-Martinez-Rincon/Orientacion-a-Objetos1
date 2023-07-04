@@ -1,6 +1,7 @@
 package ar.edu.unlp.info.oo1.Parcial2;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class Empleado {
 	private String nombre;
@@ -18,5 +19,18 @@ public class Empleado {
 	
 	public double getValorHora() {
 		return this.valorHora;
+	}
+	
+	public List<Factura> facturarOrdenes(List<Orden> ordenes ){
+		return ordenes.stream()
+				.map(orden -> orden.generarFactura())
+				.collect(Collectors.toList());
+	}
+	
+	public Boolean tieneOrden12Meses(Orden o) {
+		return this.ordenes.stream()
+				.allMatch(orden -> (
+					orden.equals(o) && orden.antiguedad() == 1
+					));
 	}
 }

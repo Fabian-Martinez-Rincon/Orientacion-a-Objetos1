@@ -15,8 +15,4 @@ public class Embarcacion extends Vehiculo{
 		}
 		return 15;
 	}
-
-
-	
-	
 }

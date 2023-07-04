@@ -38,6 +38,4 @@ public class VehiculoTest {
 		assertEquals(11, embarcacion2.calcularImpuesto());
 		assertEquals(1150000, embarcacion3.calcularImpuesto()); //El valor mas el 15%
 	}
-	
-
 }

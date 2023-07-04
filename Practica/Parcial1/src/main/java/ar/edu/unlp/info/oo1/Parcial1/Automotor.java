@@ -9,18 +9,11 @@ public class Automotor extends Vehiculo{
 		this.modelo=modelo;
 	}
 
-
-
 	private String marca;
 	private String modelo;
 	
-
-
 	@Override
 	public int porcentaje() {
 		return 15;
 	}
-
-	
-	
 }

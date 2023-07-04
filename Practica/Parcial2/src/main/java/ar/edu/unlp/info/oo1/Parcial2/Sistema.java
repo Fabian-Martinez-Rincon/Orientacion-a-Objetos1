@@ -11,6 +11,6 @@ public class Sistema {
 	
 	public Boolean aplicarDescuento(Orden orden) {
 		return empleados.stream()
+				.anyMatch(empleado -> empleado.tieneOrden12Meses(orden));
 	}
-	
 }

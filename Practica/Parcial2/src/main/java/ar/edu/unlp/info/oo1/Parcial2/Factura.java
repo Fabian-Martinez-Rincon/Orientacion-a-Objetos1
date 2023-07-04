@@ -14,6 +14,4 @@ public class Factura {
 		this.montoTotal=montoTotal;
 		this.descuento=descuento;
 	}
-	
-	
 }

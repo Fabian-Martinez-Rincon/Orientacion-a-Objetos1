@@ -33,40 +33,37 @@ Parcial el dia 14-6 a ponerse las pilas pa
 
 ## Indice
 
-- [1️⃣ Ejercicio 1 WallPost](/Practica/Ejercicio%201%20WallPost/)
-- [2️⃣ Ejercicio 2 Balanza Electrónica](/Practica/Ejercicio%202%20Balanza%20Electr%C3%B3nica/)
-- [3️⃣ Ejercicio 3 Presupuestos y 3 Bis: Balanza mejorada](/Practica/Ejercicio%203%20Presupuestos%20y%203%20Bis%20Balansa%20Mejorada/)
-- [4️⃣ Ejercicio 4 Figuras y cuerpos](/Practica/Ejercicio%204%20Figuras%20y%20cuerpos/)
-- [5️⃣ Ejercicio 5 Genealogía salvaje](/Practica/Ejercicio%205%20Genealog%C3%ADa%20salvaje/)
-- [6️⃣ Ejercicio 6 Red de Alumbrado](/Practica/Ejercicio%206%20Red%20de%20alumbrado/)
-- [7️⃣ Ejercicio 7 Method lookup con Empleados](/Practica/Ejercicio%207%20Method%20Lookup%20con%20empleados/)
-- [8️⃣ Ejercicio 8 Distribuidora Eléctrica](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/)
-- [9️⃣ Ejercicio 9 Cuenta con ganchos](/Practica/Ejercicio%209%20Cuenta%20con%20ganchos/)
-- [1️⃣0️⃣ Ejercicio 10 Job Scheduler](/Practica/Ejercicio%2010%20Job%20Scheduler/)
-- [1️⃣1️⃣ Ejercicio 11 El Inversor](/Practica/Ejercicio%2011%20El%20Inversor/)
-- [1️⃣2️⃣ Ejercicio 12 Volumen y superficie de sólidos](/Practica/Ejercicio%2012%20Volumen%20y%20superficie%20con%20s%C3%B3lidos/)
-- [1️⃣3️⃣ Ejercicio 13 Cliente de correo con adjuntos](/Practica/Ejercicio%2013%20Cliente%20con%20correo%20con%20adjuntos/)
-- [1️⃣4️⃣ Ejercicio 14 Intervalo de tiempo](/Practica/Ejercicio%2014%20Intervalo%20de%20tiempo/)
-- [1️⃣5️⃣ Ejercicio 15 Alquiler de propiedades](/Practica/Ejercicio%2015%20Alquiler%20de%20propiedades/)
-- [1️⃣6️⃣ Ejercicio 16 Políticas de cancelación](/Practica/Ejercicio%2016%20Pol%C3%ADticas%20de%20cancelaci%C3%B3n/)
-- [1️⃣7️⃣ Ejercicio 17 Facturación de llamadas](/Practica/Ejercicio%2017%20Facturas%20de%20llamadas/)
-- [1️⃣8️⃣ Ejercicio 18 Liquidación de haberes](/Practica/Ejercicio%2018%20Liquidaci%C3%B3n%20de%20haberes/)
-- [1️⃣9️⃣ Ejercicio 19 Mercado de Objetos](/Practica/Ejercicio%2019%20Mercado%20de%20Objetos/)
-- [2️⃣0️⃣ Ejercicio 20 Farolas con focos](/Practica/Ejercicio%2020%20Farolas%20con%20Focos/)
+- [1️⃣ Ejercicio 1 WallPost](#📝-ejercicio-1-wallpost)
+- [2️⃣ Ejercicio 2 Balanza Electrónica](#📝-ejercicio-2-balanza-electrónica)
+- [3️⃣ Ejercicio 3 Presupuestos y 3 Bis: Balanza mejorada](#📝-ejercicio-3---bis-balanza-mejorada)
+- [4️⃣ Ejercicio 4 Figuras y cuerpos](#📝-ejercicio-4-figuras-y-cuerpos)
+- [5️⃣ Ejercicio 5 Genealogía salvaje](#📝-ejercicio-5-genealogía-salvaje)
+- [6️⃣ Ejercicio 6 Red de Alumbrado](#📝-ejercicio-6-red-de-alumbrado)
+- [7️⃣ Ejercicio 7 Method lookup con Empleados](#📝-ejercicio-7-method-lookup-con-empleados)
+- [8️⃣ Ejercicio 8 Distribuidora Eléctrica](#📝-ejercicio-8-distribuidora-eléctrica)
+- [9️⃣ Ejercicio 9 Cuenta con ganchos](#📝-ejercicio-9--cuenta-con-ganchos)
+- [1️⃣0️⃣ Ejercicio 10 Job Scheduler](#📝-ejercicio-10---job-scheduler)
+- [1️⃣1️⃣ Ejercicio 11 El Inversor](#📝-ejercicio-11---el-inversor)
+- [1️⃣2️⃣ Ejercicio 12 Volumen y superficie de sólidos](#📝-ejercicio-12-volumen-y-superficie-de-sólidos)
+- [1️⃣3️⃣ Ejercicio 13 Cliente de correo con adjuntos](#📝-ejercicio-13-cliente-de-correo-con-adjuntos)
+- [1️⃣4️⃣ Ejercicio 14 Intervalo de tiempo](#📝-ejercicio-14-intervalo-de-tiempo)
+- [1️⃣5️⃣ Ejercicio 15 Alquiler de propiedades](#📝-ejercicio-15-alquiler-de-propiedades)
+- [1️⃣6️⃣ Ejercicio 16 Políticas de cancelación](#📝-ejercicio-16-políticas-de-cancelación)
+- [1️⃣7️⃣ Ejercicio 17 Facturación de llamadas](#📝-ejercicio-17-facturación-de-llamadas)
+- [1️⃣8️⃣ Ejercicio 18 Liquidación de haberes](#📝-ejercicio-18-liquidación-de-haberes)
+- [1️⃣9️⃣ Ejercicio 19 Mercado de Objetos](#📝-ejercicio-19-mercado-de-objetos)
+- [2️⃣0️⃣ Ejercicio 20 Farolas con focos](#📝-ejercicio-20-farolas-con-focos)
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
 
 
-<h1 align="center"> 📝 Ejercicio 1: WallPost</h1>
+# 📝 Ejercicio 1: WallPost
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
 - [Objeto WallPost](/Practica/Ejercicio%201%20WallPost/Ejercicio-1-WallPost/Documentos/ejercicio1-wallpost/src/main/java/ar/edu/unlp/oo1/ejercicio1/impl/WallPostImpl.java)
 - [Test](/Practica/Ejercicio%201%20WallPost/Ejercicio-1-WallPost/Documentos/ejercicio1-wallpost/src/test/java/ar/edu/unlp/oo1/ejercicio1/WallPostTest.java)
-
-
-
 
 ---
 
@@ -153,7 +150,7 @@ Para visualizar la ventana, sobre el proyecto, usar la opción del menú context
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
 
-<h1 align="center"> 📝 Ejercicio 2: Balanza Electrónica</h1>
+# 📝 Ejercicio 2: Balanza Electrónica
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -196,7 +193,7 @@ Si todo salió bien, su implementación debería pasar las pruebas que definen l
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-<h1 align="center"> 📝 Ejercicio 3: Presupuestos</h1>
+# 📝 Ejercicio 3: Presupuestos
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -222,7 +219,7 @@ Utilice los tests provistos para confirmar que su implementación ofrece la func
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-<h1 align="center"> 📝 Ejercicio 3 - Bis: Balanza mejorada</h1>
+# 📝 Ejercicio 3 - Bis: Balanza mejorada
 
 ---
 
@@ -271,7 +268,7 @@ Después de hacer estos cambios, ¿siguen pasando los tests? ¿Está bien que se
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-<h1 align="center"> 📝 Ejercicio 4: Figuras y Cuerpos</h1>
+# 📝 Ejercicio 4: Figuras y Cuerpos
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -344,7 +341,7 @@ Discuta con el ayudante sus elecciones de variables de instancia y métodos adic
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-<h1 align="center"> 📝 Ejercicio 5: Genealogía salvaje</h1>
+# 📝 Ejercicio 5: Genealogía salvaje
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -377,7 +374,7 @@ Haga las modificaciones necesarias para que el proyecto no tenga errores.  Si al
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-<h1 align="center"> 📝 Ejercicio 6: Red de Alumbrado</h1>
+# 📝 Ejercicio 6: Red de Alumbrado
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -444,7 +441,7 @@ public boolean isOn()
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-<h1 align="center"> 📝 Ejercicio 7: Method lookup con Empleados</h1>
+# 📝 Ejercicio 7: Method lookup con Empleados
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -474,7 +471,9 @@ Analice cada uno de los siguientes fragmentos de código y resuelva las tareas i
 - `sueldoBasicoDeAlan` 67850.0
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
-<h1 align="center"> 📝 Ejercicio 8: Distribuidora Eléctrica</h1>
+
+# 📝 Ejercicio 8: Distribuidora Eléctrica
+
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
 - [Distribuidora](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/Ejercicio-8-Distribuidora-Electrica/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_8_Distribuidora_Electrica/Distribuidora.java)
@@ -484,9 +483,6 @@ Analice cada uno de los siguientes fragmentos de código y resuelva las tareas i
 - [DistribuidoraTest](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/Ejercicio-8-Distribuidora-Electrica/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_8_Distribuidora_Electrica/DistribuidoraTest.java)
 - [UsuarioTest](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/Ejercicio-8-Distribuidora-Electrica/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_8_Distribuidora_Electrica/UsuarioTest.java)
 - [FacturaTest](/Practica/Ejercicio%208%20Distribuidora%20El%C3%A9ctrica/Ejercicio-8-Distribuidora-Electrica/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_8_Distribuidora_Electrica/FacturaTest.java)
-
-
-
 
 ---
 
@@ -526,7 +522,7 @@ En una clase de test, cree los test de unidad necesarios para poder evaluar:
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-<h1 align="center"> 📝 Ejercicio 9 : Cuenta con ganchos</h1>
+# 📝 Ejercicio 9 : Cuenta con ganchos
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -562,7 +558,7 @@ Observe con detenimiento el diseño que se muestra en el siguiente diagrama. La 
 
 ![](/Documentos/Imagenes/Ejercicio9.jpg)
 
-<h1 align="center"> 📝 Ejercicio 10 - Job Scheduler</h1>
+# 📝 Ejercicio 10 - Job Scheduler
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -599,7 +595,7 @@ El uml no representa el programa, pero es lo que se deberia hacer.
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-<h1 align="center"> 📝 Ejercicio 11 - El Inversor</h1>
+# 📝 Ejercicio 11 - El Inversor
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -654,7 +650,7 @@ Cuando se quiere saber cuánto dinero representan las inversiones del inversor, 
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-<h1 align="center"> 📝 Ejercicio 12: Volumen y superficie de sólidos</h1>
+# 📝 Ejercicio 12: Volumen y superficie de sólidos
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -709,7 +705,7 @@ Probablemente note una similitud entre este ejercicio y el ejercicio de "Figuras
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-<h1 align="center"> 📝 Ejercicio 13. Cliente de correo con adjuntos</h1>
+# 📝 Ejercicio 13. Cliente de correo con adjuntos
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -759,7 +755,7 @@ public Email buscar(String texto) {
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-<h1 align="center"> 📝 Ejercicio 14. Intervalo de tiempo</h1>
+# 📝 Ejercicio 14. Intervalo de tiempo
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -810,9 +806,16 @@ Los cambios en la estructura interna de un objeto sólo deben afectar a la impl
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-<h1 align="center"> 📝 Ejercicio 15. Alquiler de propiedades</h1>
+# 📝 Ejercicio 15. Alquiler de propiedades
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+- [DateLapse](/Practica/Ejercicio%2015%20Alquiler%20de%20propiedades/Ejercicio-15-Alquiler-de-propiedades/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_15_Alquiler_de_propiedades/DateLapse.java)
+- [Propiedad](/Practica/Ejercicio%2015%20Alquiler%20de%20propiedades/Ejercicio-15-Alquiler-de-propiedades/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_15_Alquiler_de_propiedades/Propiedad.java)
+- [Reserva](/Practica/Ejercicio%2015%20Alquiler%20de%20propiedades/Ejercicio-15-Alquiler-de-propiedades/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_15_Alquiler_de_propiedades/Reserva.java)
+- [Sistema](/Practica/Ejercicio%2015%20Alquiler%20de%20propiedades/Ejercicio-15-Alquiler-de-propiedades/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_15_Alquiler_de_propiedades/Sistema.java)
+- [Usuario](/Practica/Ejercicio%2015%20Alquiler%20de%20propiedades/Ejercicio-15-Alquiler-de-propiedades/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_15_Alquiler_de_propiedades/Usuario.java)
+- [UsuarioTest](/Practica/Ejercicio%2015%20Alquiler%20de%20propiedades/Ejercicio-15-Alquiler-de-propiedades/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_15_Alquiler_de_propiedades/UsuarioTest.java)
 
 ---
 
@@ -859,7 +862,10 @@ public boolean overlaps (anotherDateLapse: DateLapse)
 
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
-<h1 align="center"> 📝 Ejercicio 16. Políticas de cancelación </h1>
+
+# 📝 Ejercicio 16. Políticas de cancelación
+
+-
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -883,7 +889,7 @@ Actualice su diseño, implementación y tests.
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
 
-<h1 align="center"> 📝 Ejercicio 17. Facturación de llamadas</h1>
+# 📝 Ejercicio 17. Facturación de llamadas
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -922,7 +928,8 @@ Para el cálculo del costo de una llamada tenga en cuenta lo siguiente:
 `3)` Implemente los tests que considere necesarios justificando su elección según lo visto en teoría respecto a valores de borde y particiones equivalentes.
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
-<h1 align="center"> 📝 Ejercicio 18. Liquidación de haberes</h1>
+
+# 📝 Ejercicio 18. Liquidación de haberes
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -960,7 +967,8 @@ Su tarea es diseñar y programar en Java lo que sea necesario para ofrecer la fu
 - `3)` Implemente los tests que considere necesarios justificando su elección según lo visto en teoría respecto a valores de borde y particiones equivalentes.
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
-<h1 align="center"> 📝 Ejercicio 19. Mercado de Objetos</h1>
+
+# 📝 Ejercicio 19. Mercado de Objetos
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 ---
 
@@ -994,7 +1002,7 @@ Su tarea es diseñar y programar en Java lo que sea necesario para ofrecer la fu
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-<h1 align="center"> 📝 Ejercicio 20. Farolas con focos</h1>
+# 📝 Ejercicio 20. Farolas con focos
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 

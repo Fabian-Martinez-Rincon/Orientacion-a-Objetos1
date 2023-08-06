@@ -886,19 +886,21 @@ Actualice su diseño, implementación y tests.
 
 # 📝 Ejercicio 17. Facturación de llamadas
 
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
 - [Cliente](/Practica/Ejercicio%2017%20Facturas%20de%20llamadas/Ejercicio-17-Facturas-de-llamadas/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_17_Facturas_de_llamadas/Cliente.java)
 - [DateLapse](/Practica/Ejercicio%2017%20Facturas%20de%20llamadas/Ejercicio-17-Facturas-de-llamadas/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_17_Facturas_de_llamadas/DateLapse.java)
 - [Factura](/Practica/Ejercicio%2017%20Facturas%20de%20llamadas/Ejercicio-17-Facturas-de-llamadas/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_17_Facturas_de_llamadas/Factura.java)
 - [Fisico](/Practica/Ejercicio%2017%20Facturas%20de%20llamadas/Ejercicio-17-Facturas-de-llamadas/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_17_Facturas_de_llamadas/Fisico.java)
-- [Internacional]()
-- [Interurbana]()
-- [Juridica]()
-- [Llamada]()
-- [Local]()
-- [Sistema]()
-- [ClienteTest]()
+- [Internacional](/Practica/Ejercicio%2017%20Facturas%20de%20llamadas/Ejercicio-17-Facturas-de-llamadas/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_17_Facturas_de_llamadas/Internacional.java)
+- [Interurbana](/Practica/Ejercicio%2017%20Facturas%20de%20llamadas/Ejercicio-17-Facturas-de-llamadas/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_17_Facturas_de_llamadas/Interurbana.java)
+- [Juridica](/Practica/Ejercicio%2017%20Facturas%20de%20llamadas/Ejercicio-17-Facturas-de-llamadas/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_17_Facturas_de_llamadas/Juridica.java)
+- [Llamada](/Practica/Ejercicio%2017%20Facturas%20de%20llamadas/Ejercicio-17-Facturas-de-llamadas/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_17_Facturas_de_llamadas/Llamada.java)
+- [Local](/Practica/Ejercicio%2017%20Facturas%20de%20llamadas/Ejercicio-17-Facturas-de-llamadas/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_17_Facturas_de_llamadas/Local.java)
+- [Sistema](/Practica/Ejercicio%2017%20Facturas%20de%20llamadas/Ejercicio-17-Facturas-de-llamadas/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_17_Facturas_de_llamadas/Sistema.java)
+- [ClienteTest](/Practica/Ejercicio%2017%20Facturas%20de%20llamadas/Ejercicio-17-Facturas-de-llamadas/src/test/java/ar/edu/unlp/info/oo1/Ejercicio_17_Facturas_de_llamadas/ClienteTest.java)
 
-<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
 
 
 ---
@@ -939,6 +941,13 @@ Para el cálculo del costo de una llamada tenga en cuenta lo siguiente:
 # 📝 Ejercicio 18. Liquidación de haberes
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+- [Contrato](/Practica/Ejercicio%2018%20Liquidación%20de%20haberes/Ejercicio-18-Liquidacion-de-haberes/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_18_Liquidacion_de_haberes/Contrato.java)
+- [DePlatan](/Practica/Ejercicio%2018%20Liquidación%20de%20haberes/Ejercicio-18-Liquidacion-de-haberes/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_18_Liquidacion_de_haberes/DePlanta.java)
+- [Empleado](/Practica/Ejercicio%2018%20Liquidación%20de%20haberes/Ejercicio-18-Liquidacion-de-haberes/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_18_Liquidacion_de_haberes/Empleado.java)
+- [Persona](/Practica/Ejercicio%2018%20Liquidación%20de%20haberes/Ejercicio-18-Liquidacion-de-haberes/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_18_Liquidacion_de_haberes/Persona.java)
+- [PorHora](/Practica/Ejercicio%2018%20Liquidación%20de%20haberes/Ejercicio-18-Liquidacion-de-haberes/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_18_Liquidacion_de_haberes/PorHora.java)
+- [Sistema](/Practica/Ejercicio%2018%20Liquidación%20de%20haberes/Ejercicio-18-Liquidacion-de-haberes/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_18_Liquidacion_de_haberes/Sistema.java)
 
 ---
 

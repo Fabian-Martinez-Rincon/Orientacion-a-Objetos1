@@ -865,9 +865,11 @@ public boolean overlaps (anotherDateLapse: DateLapse)
 
 # 📝 Ejercicio 16. Políticas de cancelación
 
--
+
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
+Este es el unico que no hice
 
 ---
 
@@ -890,6 +892,18 @@ Actualice su diseño, implementación y tests.
 
 
 # 📝 Ejercicio 17. Facturación de llamadas
+
+- [Cliente](/Practica/Ejercicio%2017%20Facturas%20de%20llamadas/Ejercicio-17-Facturas-de-llamadas/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_17_Facturas_de_llamadas/Cliente.java)
+- [DateLapse](/Practica/Ejercicio%2017%20Facturas%20de%20llamadas/Ejercicio-17-Facturas-de-llamadas/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_17_Facturas_de_llamadas/DateLapse.java)
+- [Factura](/Practica/Ejercicio%2017%20Facturas%20de%20llamadas/Ejercicio-17-Facturas-de-llamadas/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_17_Facturas_de_llamadas/Factura.java)
+- [Fisico](/Practica/Ejercicio%2017%20Facturas%20de%20llamadas/Ejercicio-17-Facturas-de-llamadas/src/main/java/ar/edu/unlp/info/oo1/Ejercicio_17_Facturas_de_llamadas/Fisico.java)
+- [Internacional]()
+- [Interurbana]()
+- [Juridica]()
+- [Llamada]()
+- [Local]()
+- [Sistema]()
+- [ClienteTest]()
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 

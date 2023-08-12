@@ -1,30 +1,27 @@
-<h1 align="center"> ☕ Orientación a Objetos 1</h1>
+<div align="center"> 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/10I54Pr7nbGrAs/giphy.gif"/>
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Fabian-Martinez-Rincon/Orientacion-a-Objetos1)
+[![GitHub stars](https://img.shields.io/github/stars/Fabian-Martinez-Rincon/Orientacion-a-Objetos1)](https://github.com/Fabian-Martinez-Rincon/Orientacion-a-Objetos1/stargazers/)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Fabian-Martinez-Rincon/Orientacion-a-Objetos1)](https://github.com/Fabian-Martinez-Rincon/Orientacion-a-Objetos1)
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=1700&pause=800&color=28CDF7&center=true&width=863&lines=☕ Orientación a Objetos 1"/>
  </div>
 
-<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%"> 
+</div>
 
-### Importante para el parcial
+<a title="" href="https://cafecito.app/ei-materias"><img src="/Documentos/Cafecito.png" alt="" /></a>
 
+- ***Importante para el parcial***
+  - [Instalar Eclipse](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2022-12/R/eclipse-inst-jre-win64.exe)
+- ***Parcial el dia 14-6 a ponerse las pilas pa***
+  - [📝 Todas las autoEvaluaciones](/Documentos/autoevaluaciones.md)
 
-
-
-
----
-
-
-- [Instalar Eclipse](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2022-12/R/eclipse-inst-jre-win64.exe)
-
-Parcial el dia 14-6 a ponerse las pilas pa
-
-- [📝 Todas las autoEvaluaciones](/Documentos/autoevaluaciones.md)
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
 
----
 
-## Indice
+<p><img width="250" align='right' src="https://media.giphy.com/media/RcRYrpC1pBvIB0icDm/giphy.gif"></p>
 
 - [1️⃣ Ejercicio 1 WallPost](#📝-ejercicio-1-wallpost)
 - [2️⃣ Ejercicio 2 Balanza Electrónica](#📝-ejercicio-2-balanza-electrónica)

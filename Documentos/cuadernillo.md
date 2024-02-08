@@ -5,32 +5,32 @@
 
 <p><img width="250" align='right' src="https://media.giphy.com/media/RcRYrpC1pBvIB0icDm/giphy.gif"></p>
 
-- [1️⃣ Ejercicio 1 WallPost](#📝-ejercicio-1-wallpost)
-- [2️⃣ Ejercicio 2 Balanza Electrónica](#📝-ejercicio-2-balanza-electrónica)
-- [3️⃣ Ejercicio 3 Presupuestos y 3 Bis: Balanza mejorada](#📝-ejercicio-3---bis-balanza-mejorada)
-- [4️⃣ Ejercicio 4 Figuras y cuerpos](#📝-ejercicio-4-figuras-y-cuerpos)
-- [5️⃣ Ejercicio 5 Genealogía salvaje](#📝-ejercicio-5-genealogía-salvaje)
-- [6️⃣ Ejercicio 6 Red de Alumbrado](#📝-ejercicio-6-red-de-alumbrado)
-- [7️⃣ Ejercicio 7 Method lookup con Empleados](#📝-ejercicio-7-method-lookup-con-empleados)
-- [8️⃣ Ejercicio 8 Distribuidora Eléctrica](#📝-ejercicio-8-distribuidora-eléctrica)
-- [9️⃣ Ejercicio 9 Cuenta con ganchos](#📝-ejercicio-9--cuenta-con-ganchos)
-- [1️⃣0️⃣ Ejercicio 10 Job Scheduler](#📝-ejercicio-10---job-scheduler)
-- [1️⃣1️⃣ Ejercicio 11 El Inversor](#📝-ejercicio-11---el-inversor)
-- [1️⃣2️⃣ Ejercicio 12 Volumen y superficie de sólidos](#📝-ejercicio-12-volumen-y-superficie-de-sólidos)
-- [1️⃣3️⃣ Ejercicio 13 Cliente de correo con adjuntos](#📝-ejercicio-13-cliente-de-correo-con-adjuntos)
-- [1️⃣4️⃣ Ejercicio 14 Intervalo de tiempo](#📝-ejercicio-14-intervalo-de-tiempo)
-- [1️⃣5️⃣ Ejercicio 15 Alquiler de propiedades](#📝-ejercicio-15-alquiler-de-propiedades)
-- [1️⃣6️⃣ Ejercicio 16 Políticas de cancelación](#📝-ejercicio-16-políticas-de-cancelación)
-- [1️⃣7️⃣ Ejercicio 17 Facturación de llamadas](#📝-ejercicio-17-facturación-de-llamadas)
-- [1️⃣8️⃣ Ejercicio 18 Liquidación de haberes](#📝-ejercicio-18-liquidación-de-haberes)
-- [1️⃣9️⃣ Ejercicio 19 Mercado de Objetos](#📝-ejercicio-19-mercado-de-objetos)
-- [2️⃣0️⃣ Ejercicio 20 Farolas con focos](#📝-ejercicio-20-farolas-con-focos)
+- [1️⃣ Ejercicio 1 WallPost](#ejercicio-1-wallpost)
+- [2️⃣ Ejercicio 2 Balanza Electrónica](#ejercicio-2-balanza-electrónica)
+- [3️⃣ Ejercicio 3 Presupuestos y 3 Bis: Balanza mejorada](#ejercicio-3---bis-balanza-mejorada)
+- [4️⃣ Ejercicio 4 Figuras y cuerpos](#ejercicio-4-figuras-y-cuerpos)
+- [5️⃣ Ejercicio 5 Genealogía salvaje](#ejercicio-5-genealogía-salvaje)
+- [6️⃣ Ejercicio 6 Red de Alumbrado](#ejercicio-6-red-de-alumbrado)
+- [7️⃣ Ejercicio 7 Method lookup con Empleados](#ejercicio-7-method-lookup-con-empleados)
+- [8️⃣ Ejercicio 8 Distribuidora Eléctrica](#ejercicio-8-distribuidora-eléctrica)
+- [9️⃣ Ejercicio 9 Cuenta con ganchos](#ejercicio-9--cuenta-con-ganchos)
+- [1️⃣0️⃣ Ejercicio 10 Job Scheduler](#ejercicio-10---job-scheduler)
+- [1️⃣1️⃣ Ejercicio 11 El Inversor](#ejercicio-11---el-inversor)
+- [1️⃣2️⃣ Ejercicio 12 Volumen y superficie de sólidos](#ejercicio-12-volumen-y-superficie-de-sólidos)
+- [1️⃣3️⃣ Ejercicio 13 Cliente de correo con adjuntos](#ejercicio-13-cliente-de-correo-con-adjuntos)
+- [1️⃣4️⃣ Ejercicio 14 Intervalo de tiempo](#ejercicio-14-intervalo-de-tiempo)
+- [1️⃣5️⃣ Ejercicio 15 Alquiler de propiedades](#ejercicio-15-alquiler-de-propiedades)
+- [1️⃣6️⃣ Ejercicio 16 Políticas de cancelación](#ejercicio-16-políticas-de-cancelación)
+- [1️⃣7️⃣ Ejercicio 17 Facturación de llamadas](#ejercicio-17-facturación-de-llamadas)
+- [1️⃣8️⃣ Ejercicio 18 Liquidación de haberes](#ejercicio-18-liquidación-de-haberes)
+- [1️⃣9️⃣ Ejercicio 19 Mercado de Objetos](#ejercicio-19-mercado-de-objetos)
+- [2️⃣0️⃣ Ejercicio 20 Farolas con focos](#ejercicio-20-farolas-con-focos)
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
 
 
-# 📝 Ejercicio 1: WallPost
+# Ejercicio 1: WallPost
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -122,7 +122,7 @@ Para visualizar la ventana, sobre el proyecto, usar la opción del menú context
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
 
-# 📝 Ejercicio 2: Balanza Electrónica
+# Ejercicio 2: Balanza Electrónica
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -165,7 +165,7 @@ Si todo salió bien, su implementación debería pasar las pruebas que definen l
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-# 📝 Ejercicio 3: Presupuestos
+# Ejercicio 3: Presupuestos
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -191,7 +191,7 @@ Utilice los tests provistos para confirmar que su implementación ofrece la func
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-# 📝 Ejercicio 3 - Bis: Balanza mejorada
+# Ejercicio 3 - Bis: Balanza mejorada
 
 ---
 
@@ -240,7 +240,7 @@ Después de hacer estos cambios, ¿siguen pasando los tests? ¿Está bien que se
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-# 📝 Ejercicio 4: Figuras y Cuerpos
+# Ejercicio 4: Figuras y Cuerpos
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -313,7 +313,7 @@ Discuta con el ayudante sus elecciones de variables de instancia y métodos adic
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-# 📝 Ejercicio 5: Genealogía salvaje
+# Ejercicio 5: Genealogía salvaje
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -346,7 +346,7 @@ Haga las modificaciones necesarias para que el proyecto no tenga errores.  Si al
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-# 📝 Ejercicio 6: Red de Alumbrado
+# Ejercicio 6: Red de Alumbrado
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -413,7 +413,7 @@ public boolean isOn()
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-# 📝 Ejercicio 7: Method lookup con Empleados
+# Ejercicio 7: Method lookup con Empleados
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -444,7 +444,7 @@ Analice cada uno de los siguientes fragmentos de código y resuelva las tareas i
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-# 📝 Ejercicio 8: Distribuidora Eléctrica
+# Ejercicio 8: Distribuidora Eléctrica
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -494,7 +494,7 @@ En una clase de test, cree los test de unidad necesarios para poder evaluar:
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-# 📝 Ejercicio 9 : Cuenta con ganchos
+# Ejercicio 9 : Cuenta con ganchos
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -530,7 +530,7 @@ Observe con detenimiento el diseño que se muestra en el siguiente diagrama. La 
 
 ![](/Documentos/Imagenes/Ejercicio9.jpg)
 
-# 📝 Ejercicio 10 - Job Scheduler
+# Ejercicio 10 - Job Scheduler
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -567,7 +567,7 @@ El uml no representa el programa, pero es lo que se deberia hacer.
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-# 📝 Ejercicio 11 - El Inversor
+# Ejercicio 11 - El Inversor
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -622,7 +622,7 @@ Cuando se quiere saber cuánto dinero representan las inversiones del inversor, 
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-# 📝 Ejercicio 12: Volumen y superficie de sólidos
+# Ejercicio 12: Volumen y superficie de sólidos
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -677,7 +677,7 @@ Probablemente note una similitud entre este ejercicio y el ejercicio de "Figuras
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-# 📝 Ejercicio 13. Cliente de correo con adjuntos
+# Ejercicio 13. Cliente de correo con adjuntos
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -727,7 +727,7 @@ public Email buscar(String texto) {
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-# 📝 Ejercicio 14. Intervalo de tiempo
+# Ejercicio 14. Intervalo de tiempo
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -778,7 +778,7 @@ Los cambios en la estructura interna de un objeto sólo deben afectar a la impl
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-# 📝 Ejercicio 15. Alquiler de propiedades
+# Ejercicio 15. Alquiler de propiedades
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -835,7 +835,7 @@ public boolean overlaps (anotherDateLapse: DateLapse)
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-# 📝 Ejercicio 16. Políticas de cancelación
+# Ejercicio 16. Políticas de cancelación
 
 
 
@@ -863,7 +863,7 @@ Actualice su diseño, implementación y tests.
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
 
-# 📝 Ejercicio 17. Facturación de llamadas
+# Ejercicio 17. Facturación de llamadas
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -917,7 +917,7 @@ Para el cálculo del costo de una llamada tenga en cuenta lo siguiente:
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-# 📝 Ejercicio 18. Liquidación de haberes
+# Ejercicio 18. Liquidación de haberes
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -963,7 +963,7 @@ Su tarea es diseñar y programar en Java lo que sea necesario para ofrecer la fu
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-# 📝 Ejercicio 19. Mercado de Objetos
+# Ejercicio 19. Mercado de Objetos
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 ---
 
@@ -997,7 +997,7 @@ Su tarea es diseñar y programar en Java lo que sea necesario para ofrecer la fu
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-# 📝 Ejercicio 20. Farolas con focos
+# Ejercicio 20. Farolas con focos
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 

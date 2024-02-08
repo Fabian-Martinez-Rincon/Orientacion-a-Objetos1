@@ -22,22 +22,52 @@
 
 La profe dijo que supuestamente cambiaron la forma de evaluar y que ahora no vamos tener un parcial normal sino que va a ser un codigo con errores y nosotros vamos a tener que corregir segun las euristicas dadas.
 
+### Mercado Libre
+
+<details><summary>Enunciado</summary>
+
 ![Pedidos de compra](/apref/MercadoOnLine.png)
-![Veterinaria](/apref/Pedidos%20de%20compra.png)
-![MercadoOnLine](/apref/Veterinaria.png)
-
-- <details><summary>Sistema</summary>
-
-```java
-public class Sistema{
-    
-}
-```
 
 </details>
-- <details><summary>Usuario</summary></details>
+
+***Resolución***
+
+<details><summary>Sistema</summary>
+
+```java
+    public class Sistema{
+
+    }
+```
+</details>
+
+<details><summary>Usuario</summary></details>
+
 <details><summary>Producto</summary></details>
 
 ### UML
 
 ![](/apref/MercadoOnLine.excalidraw.svg)
+
+---
+
+### Pedidos de Compra
+
+<details><summary>Enunciado</summary>
+
+![Veterinaria](/apref/Pedidos%20de%20compra.png)
+
+</details>
+
+### Veterinariua
+
+<details><summary>Enunciado</summary>
+
+![MercadoOnLine](/apref/Veterinaria.png)
+
+</details>
+
+---
+
+
+

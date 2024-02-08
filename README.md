@@ -22,98 +22,22 @@
 
 La profe dijo que supuestamente cambiaron la forma de evaluar y que ahora no vamos tener un parcial normal sino que va a ser un codigo con errores y nosotros vamos a tener que corregir segun las euristicas dadas.
 
-![Pedidos de compra](https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon/assets/55964635/e21c3b0b-dac5-42dd-9d40-32a6ef9ddf48)
-![Veterinaria](https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon/assets/55964635/d63ca0d3-ee56-4616-904c-09a5ffaa2972)
-![MercadoOnLine](https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon/assets/55964635/0c164ff9-43ae-41e6-84e3-b1a5ff81e71a)
+![Pedidos de compra](/apref/MercadoOnLine.png)
+![Veterinaria](/apref/Pedidos%20de%20compra.png)
+![MercadoOnLine](/apref/Veterinaria.png)
 
-
-### Sistema
-
-```java
-public class Sistema {
-    private List<Usuario> usuarios;
-    
-    public Sistema() {
-        this.usuarios = new ArrayList<Usuario>();
-    }
-
-    void registrarUsuario(Usuario usuario) {
-        this.usuarios.add(nuevoUsuario);
-    }
-}
-
-```
-
-### Usuario
+- <details><summary>Sistema</summary>
 
 ```java
-public class Usuario {
-    private String email;
-    private String localidad;
-    private List<Publicacion> publicaciones;
+public class Sistema{
     
-    public Usuario(String email, String localidad) {
-        this.email = email;
-        this.localidad = localidad;
-    }
-    
-    public void publicarProducto(Producto producto) {
-        this.publicaciones.add(publicacion);
-    }
 }
 ```
 
-### Producto
+</details>
+- <details><summary>Usuario</summary></details>
+<details><summary>Producto</summary></details>
 
-```java
-public abstract class Producto {
-    private String nombre;
-    private String descripcion;
-    private String formaEntrega;
-
-    public Producto(String nombre, String descripcion, String formaEntrega) {
-        this.nombre = nombre;
-        this.descripcion = descripcion;
-    }
-}
-```
-
-### Nuevo
-
-```java
-public class Nuevo extends Producto {
-    private double precioUnitario;
-    private int cantidadDisponible;
-    
-    
-    public Nuevo(String nombre, String descripcion, String precioUnitario, String cantidadDisponible, double formaEntrega) {
-        super(nombre, descripcion);
-        this.precioUnitario = precioUnitario;
-        this.cantidadDisponible = cantidadDisponible;
-        this.formaEntrega = formaEntrega;
-    }
-
-
-}
-```
-
-### Usado
-
-```java
-public class Usado extends Producto {
-    private double precio;
-    private Integer cantidad;
-    
-    public Usado(String nombre, String descripcion, double precio) {
-        super(nombre, descripcion);
-        this.precio = precio;
-        this.cantidad = 1;
-    }
-}
-```
-
-### Publicación
-
-### Servicio
+### UML
 
 ![](/apref/MercadoOnLine.excalidraw.svg)

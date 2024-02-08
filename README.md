@@ -115,3 +115,5 @@ public class Usado extends Producto {
 ### Publicación
 
 ### Servicio
+
+![](/apref/MercadoOnLine.excalidraw.svg)

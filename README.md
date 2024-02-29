@@ -14,9 +14,6 @@
 
 - [Instalar Eclipse](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2022-12/R/eclipse-inst-jre-win64.exe)
 - [Todas las autoEvaluaciones](/Documentos/autoevaluaciones.md)
-
-
-
 - [1️⃣ Ejercicio 1 WallPost](/Documentos/cuadernillo.md)
 - [2️⃣ Ejercicio 2 Balanza Electrónica](/Documentos/cuadernillo.md)
 - [3️⃣ Ejercicio 3 Presupuestos y 3 Bis: Balanza mejorada](/Documentos/cuadernillo.md)

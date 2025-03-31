@@ -6,11 +6,18 @@
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=1700&pause=800&color=28CDF7&center=true&width=863&lines=☕ Orientación a Objetos 1"/>
+
+---
+
+<a title="" href="https://youtu.be/eJHu-NF3b14?si=PQIFimSoSHhndEnd"><img src="/Documentos/image.png" width="550px"  /></a>
  </div>
 
-</div>
+---
 
-<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+> [!IMPORTANT]  
+> Si encuentran algun link roto o tienen alguna duda, no duden en decirme por mail fabianmartinezrincon.123@gmail.com
+
+### Ejercicios
 
 - [Instalar Eclipse](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2022-12/R/eclipse-inst-jre-win64.exe)
 - [Todas las autoEvaluaciones](/Documentos/autoevaluaciones.md)
